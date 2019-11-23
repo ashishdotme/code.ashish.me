@@ -1,7 +1,7 @@
 const path = require('path')
 const fs = require('fs')
 
-const githubRepo = 'https://github.com/ashishdotme/programming-problems/blob/master/'
+const githubRepo = 'https://github.com/ashishdotme/code.ashish.me/blob/master/'
 
 let content = ''
 let problems = []
