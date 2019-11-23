@@ -1,0 +1,51 @@
+{
+  "name": "code.ashish.me",
+  "version": "1.0.0",
+  "description": "my solutions to various programming problems",
+  "main": "generate-website.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint './**/*.js' --fix",
+    "build": "node build-website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishdotme/code.ashish.me.git"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && yarn run build"
+    }
+  },
+  "keywords": [
+    "leetcode",
+    "euler",
+    "freecodecamp",
+    "programming",
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "author": "Ashish Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishdotme/code.ashish.me/issues"
+  },
+  "homepage": "https://github.com/ashishdotme/code.ashish.me#readme",
+  "dependencies": {
+    "eslint": "^6.7.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-import": "^2.18.2",
+    "husky": "^3.1.0"
+  },
+  "lint-staged": {
+    "*.{js}": [
+      "yarn run lint",
+      "git add"
+    ]
+  }
+}
