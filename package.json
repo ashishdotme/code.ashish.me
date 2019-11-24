@@ -17,7 +17,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && yarn run build"
+      "pre-commit": "yarn run build"
     }
   },
   "keywords": [
@@ -41,11 +41,5 @@
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-import": "^2.18.2",
     "husky": "^3.1.0"
-  },
-  "lint-staged": {
-    "*.{js}": [
-      "yarn run lint",
-      "git add"
-    ]
   }
 }
