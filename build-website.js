@@ -49,7 +49,7 @@ const srcDir = fs.readdirSync(__dirname, { withFileTypes: true })
 const platforms = srcDir
   .filter(dirent => dirent.isDirectory())
   .map(dirent => dirent.name)
-  .filter(folder => folder[0] !== '.' && folder !== 'docs')
+  .filter(folder => folder[0] !== '.' && folder !== 'docs' && folder !== 'node_modules')
 platforms.forEach(platform => {
   problems = []
   content = `# ${capitalize(platform)} Problems
