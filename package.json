@@ -7,9 +7,13 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint './**/*.js' --fix",
+    "test": "jest",
+    "test:watch": "jest --watchAll",
     "build": "node build-website"
+  },
+  "jest": {
+    "testMatch": ["**/**/**/*.js"]
   },
   "repository": {
     "type": "git",
@@ -36,10 +40,24 @@
   },
   "homepage": "https://github.com/ashishdotme/code.ashish.me#readme",
   "dependencies": {
-    "eslint": "^6.7.0",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "big-integer": "^1.6.48",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb": "^18.0.1",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-import": "^2.18.2",
-    "husky": "^3.1.0"
+    "eslint-plugin-jest": "^23.0.4",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "husky": "^3.1.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1"
   }
 }
