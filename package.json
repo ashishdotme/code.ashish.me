@@ -13,7 +13,9 @@
     "build": "node build-website"
   },
   "jest": {
-    "testMatch": ["**/**/**/*.js"]
+    "testMatch": [
+      "**/**/**/*.js"
+    ]
   },
   "repository": {
     "type": "git",
@@ -42,6 +44,7 @@
   "dependencies": {
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
+    "ashishdotme-generator": "^1.0.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
@@ -56,6 +59,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-react": "^7.16.0",
+    "global": "^4.4.0",
     "husky": "^3.1.0",
     "jest": "^24.9.0",
     "prettier": "^1.19.1"
