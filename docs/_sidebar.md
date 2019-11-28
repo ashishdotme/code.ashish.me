@@ -2,3 +2,4 @@
 * [Common](common-README.md)
 * [Hacker Earth](hackerearth-README.md)
 * [Project Euler](project-euler-README.md)
+* [Data Structures](data-structures-README.md)
