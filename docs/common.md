@@ -10,5 +10,5 @@
  6 | [Leap year](https://github.com/ashishdotme/code.ashish.me/blob/master/common/06-leap-year.js) |
  7 | [Palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/common/07-palindrome.js) |
  8 | [Prime number](https://github.com/ashishdotme/code.ashish.me/blob/master/common/08-prime-number.js) |
- 9 | [Reverse num](https://github.com/ashishdotme/code.ashish.me/blob/master/common/09-reverse-num.js) |
+ 9 | [Reverse number](https://github.com/ashishdotme/code.ashish.me/blob/master/common/09-reverse-number.js) |
  10 | [Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/common/10-reverse-string.js) |
