@@ -6,9 +6,6 @@
  *
  */
 
- const OPENING = '{(['
- const CLOSING = '})]'
-
 function peek(stack) {
   return stack[stack.length - 1]
 }
@@ -17,9 +14,9 @@ function balanceParentheses(str) {
   let stack = []
   for (let index = 0; index < str.length; index++) {
     const letter = str.charAt(index)
-    if (OPENING.includes(letter)) {
+    if (letter === '(') {
       stack.push(letter)
-    } else if (CLOSING.includes(letter)) {
+    } else if (letter === ')') {
       if (stack.length === 0) {
         return false
       } else if (peek(stack) === '(') {
@@ -34,4 +31,11 @@ function balanceParentheses(str) {
 
 test.only('balance Parentheses', () => {
   expect(balanceParentheses('({Ashish})')).toEqual(true)
+  expect(balanceParentheses('()')).toEqual(true)
+  expect(balanceParentheses('(())')).toEqual(true)
+  expect(balanceParentheses('((()))')).toEqual(true)
+  expect(balanceParentheses('(')).toEqual(false)
+  expect(balanceParentheses(')')).toEqual(false)
+  expect(balanceParentheses(')(')).toEqual(false)
+  expect(balanceParentheses('(()')).toEqual(false)
 })
