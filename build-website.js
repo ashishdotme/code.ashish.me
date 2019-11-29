@@ -23,21 +23,19 @@ const fetchAllProblems = dir => {
         const isNameProper = file.indexOf('-')
         if (isNameProper !== -1) {
           const splitArr = file.split(/-(.+)/)
-          if (splitArr[0]) problem.push(splitArr[0])
-          const title =
-            splitArr[1] &&
-            splitArr[1]
-              .split('-')
-              .join(' ')
-              .replace(/\.[^/.]+$/, '')
-          linkTitle = `[${capitalize(title)}](${githubRepo}${filePath})`
-        } else {
-          problem.push(index)
-          const title = file.replace(/\.[^/.]+$/, '')
-          linkTitle = `[${capitalize(title)}](${githubRepo}${filePath})`
+          if (splitArr[0] && splitArr[0].match(/^[0-9]+$/) !== null) {
+            problem.push(splitArr[0])
+            const title =
+              splitArr[1] &&
+              splitArr[1]
+                .split('-')
+                .join(' ')
+                .replace(/\.[^/.]+$/, '')
+            linkTitle = `[${capitalize(title)}](${githubRepo}${filePath})`
+            problem.push(linkTitle)
+            problems.push(problem)
+          }
         }
-        problem.push(linkTitle)
-        problems.push(problem)
       }
     } else {
       fetchAllProblems(filePath)
@@ -63,11 +61,11 @@ platforms.forEach(platform => {
     content += ` ${index + 1} | ${item[1]} |`
     content += '\n'
   })
-  fs.writeFile(`${__dirname}/docs/${platform}-README.md`, content, function(err) {
+  fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function(err) {
     if (err) {
       console.log(err)
     } else {
-      console.log(`Generated ${platform}-README.md`)
+      console.log(`Generated ${platform}.md`)
     }
   })
 })

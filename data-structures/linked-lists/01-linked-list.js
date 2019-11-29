@@ -1,3 +1,4 @@
+'use strict'
 /**
  *
  * Ashish Patel
@@ -5,13 +6,7 @@
  * w: ashish.me
  *
  */
-
-class ListNode {
-  constructor(data, next = null) {
-    this.data = data
-    this.next = next
-  }
-}
+const ListNode = require('../models/list-node')
 
 class LinkedList {
   constructor() {
