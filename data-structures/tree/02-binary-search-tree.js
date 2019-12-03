@@ -52,6 +52,25 @@ class BinarySearchTree {
     this._collect(current.right, result)
     return result
   }
+
+  contains(value){
+    return this._contains(this.root, value)
+  }
+
+  _contains(node, value) {
+    if(node === null){
+      return false
+    }
+    if(value === node.data){
+      return true
+    }
+    if(value < node.data){
+      this._contains(node.left, value)
+    }
+    if(value > node.data){
+      this._contains(node.right, value)
+    }
+  }
 }
 
 let tree = new BinarySearchTree()
