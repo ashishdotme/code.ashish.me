@@ -16,3 +16,10 @@
  12 | [Are similar](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/012-are-similar.js) |
  13 | [Array change](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/013-array-change.js) |
  14 | [Array conversion](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/014-array-conversion.js) |
+ 15 | [Array max consecutive sum](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/015-array-max-consecutive-sum.js) |
+ 16 | [Array maximal adjacent difference](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/016-array-maximal-adjacent-difference.js) |
+ 17 | [Array previous less](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/017-array-previous-less.js) |
+ 18 | [Array replace](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/018-array-replace.js) |
+ 19 | [Avoid obstacles](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/019-avoid-obstacles.js) |
+ 20 | [Bishop and pawn](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/020-bishop-and-pawn.js) |
+ 21 | [Box blur](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/021-box-blur.js) |
