@@ -23,3 +23,10 @@
  19 | [Avoid obstacles](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/019-avoid-obstacles.js) |
  20 | [Bishop and pawn](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/020-bishop-and-pawn.js) |
  21 | [Box blur](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/021-box-blur.js) |
+ 22 | [Candies](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/022-candies.js) |
+ 23 | [Case insensitive palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/023-case-insensitive-palindrome.js) |
+ 24 | [Century from year](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/024-century-from-year.js) |
+ 25 | [Character parity](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/025-character-parity.js) |
+ 26 | [Check palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/026-check-palindrome.js) |
+ 27 | [Chess board cell color](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/027-chess-board-cell-color.js) |
+ 28 | [Chunky monkey](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/028-chunky-monkey.js) |
