@@ -30,3 +30,5 @@
  26 | [Check palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/026-check-palindrome.js) |
  27 | [Chess board cell color](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/027-chess-board-cell-color.js) |
  28 | [Chunky monkey](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/028-chunky-monkey.js) |
+ 29 | [Circle of numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/029-circle-of-numbers.js) |
+ 30 | [Common character count](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/030-common-character-count.js) |
