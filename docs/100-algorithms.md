@@ -32,3 +32,11 @@
  28 | [Chunky monkey](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/028-chunky-monkey.js) |
  29 | [Circle of numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/029-circle-of-numbers.js) |
  30 | [Common character count](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/030-common-character-count.js) |
+ 31 | [Company bot strategy](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/031-company-bot-strategy.js) |
+ 32 | [Compare integers](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/032-compare-integers.js) |
+ 33 | [Compose rangers](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/033-compose-rangers.js) |
+ 34 | [Confirm ending](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/034-confirm-ending.js) |
+ 35 | [Contains close nums](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/035-contains-close-nums.js) |
+ 36 | [Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/036-contains-duplicates.js) |
+ 37 | [Convert celcius to fahrenheit](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/037-convert-celcius-to-fahrenheit.js) |
+ 38 | [Convert string](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/038-convert-string.js) |
