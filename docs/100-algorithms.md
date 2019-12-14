@@ -40,3 +40,15 @@
  36 | [Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/036-contains-duplicates.js) |
  37 | [Convert celcius to fahrenheit](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/037-convert-celcius-to-fahrenheit.js) |
  38 | [Convert string](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/038-convert-string.js) |
+ 39 | [Crossing sum](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/039-crossing-sum.js) |
+ 40 | [Deposit profit](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/040-deposit-profit.js) |
+ 41 | [Different symbols naive](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/041-different-symbols-naive.js) |
+ 42 | [Digit degree](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/042-digit-degree.js) |
+ 43 | [Domain type](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/043-domain-type.js) |
+ 44 | [Election winners](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/044-election-winners.js) |
+ 45 | [Enclose in brackets](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/045-enclose-in-brackets.js) |
+ 46 | [Even digits only](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/046-even-digits-only.js) |
+ 47 | [Extract each kth](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/047-extract-each-kth.js) |
+ 48 | [Extract matrix column](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/048-extract-matrix-column.js) |
+ 49 | [Factorialize a number](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/049-factorialize-a-number.js) |
+ 50 | [Fancy ride](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/050-fancy-ride.js) |
