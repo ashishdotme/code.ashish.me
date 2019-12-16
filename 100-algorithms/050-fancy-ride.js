@@ -34,7 +34,6 @@ function fancyRide(fares, l) {
   return uberLookup[uberToTake]
 }
 
-console.log(fancyRide([0.3, 0.5,0.7,1,1.3], 30))
-// test('fancy Ride', () => {
-//   expect(fancyRise('Ashish')).toEqual('Ashish')
-// });
+test('fancy Ride', () => {
+  expect(fancyRide([0.3, 0.5,0.7,1,1.3], 30)).toEqual('UberXL')
+});

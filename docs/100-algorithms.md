@@ -52,3 +52,10 @@
  48 | [Extract matrix column](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/048-extract-matrix-column.js) |
  49 | [Factorialize a number](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/049-factorialize-a-number.js) |
  50 | [Fancy ride](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/050-fancy-ride.js) |
+ 51 | [Fare estimator](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/051-fare-estimator.js) |
+ 52 | [Fermafactor](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/052-fermafactor.js) |
+ 53 | [Find closest pair](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/053-find-closest-pair.js) |
+ 54 | [Find email domain](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/054-find-email-domain.js) |
+ 55 | [First digit](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/055-first-digit.js) |
+ 56 | [First duplicate](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/056-first-duplicate.js) |
+ 57 | [First not repeating character](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/057-first-not-repeating-character.js) |
