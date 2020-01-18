@@ -41,7 +41,7 @@ function bestTimeToBuyAndSellStock(stocks) {
   return maxProfit
 }
 
-console.log(bestTimeToBuyAndSellStock([7,6,4,3,1]))
-// test('best Time To Buy And Sell Stock', () => {
-//   expect(bestTimeToBuyAndSellStock([7,1,5,3,6,4])).toEqual(5)
-// });
+test('best Time To Buy And Sell Stock', () => {
+  expect(bestTimeToBuyAndSellStock([7,1,5,3,6,4])).toEqual(5)
+  expect(bestTimeToBuyAndSellStock([7,6,4,3,1])).toEqual(0)
+});
