@@ -2,7 +2,6 @@
   "name": "code.ashish.me",
   "version": "1.0.0",
   "description": "my solutions to various programming problems",
-  "main": "generate-website.js",
   "directories": {
     "doc": "docs"
   },
