@@ -41,10 +41,6 @@ function longestSubstringWithoutRepeatingCharacters(value) {
   return maxCount
 }
 
-
-console.log(longestSubstringWithoutRepeatingCharacters('abcabcbb'))
-
-
-/* test('longest Substring Without Repeating Characters', () => {
+test('longest Substring Without Repeating Characters', () => {
   expect(longestSubstringWithoutRepeatingCharacters('abcabcbb')).toEqual(3)
-}); */
+});
