@@ -22,9 +22,13 @@
 */
 
 function maximumProductSubarray(value) {
-  return value
+  let min = 1;
+  let max = 1;
+
 }
 
+console.log(maximumProductSubarray([-2,0,-1]))
+/* 
 test('maximum Product Subarray', () => {
-  expect(maximumProductSubarray('Ashish')).toEqual('Ashish')
-});
+  expect(maximumProductSubarray([2,3,-2,4])).toEqual(6)
+}); */
