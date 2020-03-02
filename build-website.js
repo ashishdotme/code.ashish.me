@@ -65,7 +65,7 @@ platforms.forEach(platform => {
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
   problems.forEach((item, index) => {
-    if(platform === 'leetcode') {
+    if (platform === 'leetcode') {
       contentForLeetCode += ` ${index + 1} | ${item[0]} | ${item[1]} |`
       contentForLeetCode += '\n'
     } else {
@@ -73,7 +73,7 @@ platforms.forEach(platform => {
       content += '\n'
     }
   })
-  fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function(err) {
+  fs.writeFile(`${__dirname}/docs/${platform}.md`, platform === 'leetcode' ? contentForLeetCode : content, function (err) {
     if (err) {
       console.log(err)
     } else {
