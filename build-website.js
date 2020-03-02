@@ -4,6 +4,7 @@ const fs = require('fs')
 const githubRepo = 'https://github.com/ashishdotme/code.ashish.me/blob/master/'
 
 let content = ''
+let contentForLeetCode = ''
 let problems = []
 let linkTitle
 
