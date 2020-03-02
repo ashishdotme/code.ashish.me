@@ -58,7 +58,7 @@ platforms.forEach(platform => {
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
   problems.forEach((item, index) => {
-    content += ` ${index + 1} | ${item[1]} |`
+    content += platform === 'leetcode'? ` ${item[0]} | ${item[1]} |`:` ${index + 1} | ${item[1]} |`
     content += '\n'
   })
   fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function(err) {
