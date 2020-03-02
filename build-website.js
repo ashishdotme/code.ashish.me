@@ -55,11 +55,22 @@ platforms.forEach(platform => {
   | # | Title |
   | :---: | :--- |
   `
+  contentForLeetCode = `# ${capitalize(platform)} Problems
+
+  | # | Problem No | Title |
+  | :---: | :--- | :--- |
+  `
+
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
   problems.forEach((item, index) => {
-    content += platform === 'leetcode'? ` ${item[0]} | ${item[1]} |`:` ${index + 1} | ${item[1]} |`
-    content += '\n'
+    if(platform === 'leetcode') {
+      contentForLeetCode += ` ${index + 1} | ${item[0]} | ${item[1]} |`
+      contentForLeetCode += '\n'
+    } else {
+      content += ` ${index + 1} | ${item[1]} |`
+      content += '\n'
+    }
   })
   fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function(err) {
     if (err) {
