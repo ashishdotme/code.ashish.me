@@ -22,12 +22,23 @@
 */
 
 function maximumProductSubarray(value) {
-  let min = 1;
-  let max = 1;
-
+  let min = [1];
+  let max = [1];
+  for (let index = 0; index < value.length-1; index++) {
+    const currentNum = value[index]
+    if(value[index] < 0) {
+      max[index + 1] = Math.max(currentNum*min[index],currentNum)
+      min[index + 1] = Math.min(currentNum*max[index],currentNum)
+    } else {
+      max[index + 1] = Math.max(currentNum*max[index],currentNum)
+      min[index + 1] = Math.min(currentNum*min[index],currentNum)
+    }
+  }
+  max[0] = -Infinity
+  return Math.max(...max)
 }
 
-console.log(maximumProductSubarray([-2,0,-1]))
+console.table(maximumProductSubarray([2,3,-2,4]))
 /* 
 test('maximum Product Subarray', () => {
   expect(maximumProductSubarray([2,3,-2,4])).toEqual(6)
