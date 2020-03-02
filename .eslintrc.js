@@ -8,7 +8,7 @@ module.exports = {
   ],
   globals: {},
   env: {
-    jest: true,
+    "jest/globals": true
   },
   rules: {
     'import/extensions': ['error', 'ignorePackages'],
@@ -20,4 +20,7 @@ module.exports = {
     'no-unused-vars': ['error'],
   },
   plugins: ['jest'],
+  transform: {
+    "^.+\\.js$": "babel-jest"
+  }
 };
