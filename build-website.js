@@ -4,7 +4,6 @@ const fs = require('fs')
 const githubRepo = 'https://github.com/ashishdotme/code.ashish.me/blob/master/'
 
 let content = ''
-let contentForLeetCode = ''
 let problems = []
 let linkTitle
 
@@ -56,17 +55,11 @@ platforms.forEach(platform => {
   | # | Title |
   | :---: | :--- |
   `
-  contentForLeetCode = `# ${capitalize(platform)} Problems
-
-  | # | Problem No | Title |
-  | :---: | :--- | :--- |
-  `
-
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
   problems.forEach((item, index) => {
     if (platform === 'leetcode') {
-      content += ` ${index + 1} | ${item[0]} ${item[1]} |`
+      content += ` ${index + 1} | ${item[0]}  ${item[1]} |`
       content += '\n'
     } else {
       content += ` ${index + 1} | ${item[1]} |`
