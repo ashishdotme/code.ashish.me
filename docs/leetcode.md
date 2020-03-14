@@ -20,3 +20,4 @@
  16 | 206  [Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
  17 | 217  [Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
  18 | 238  [Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
+ 19 | 242  [Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
