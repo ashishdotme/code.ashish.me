@@ -33,18 +33,18 @@
  * It's guarantee
 */
 
-function uniquePaths(n, m) {
-  let dpMatrix = []
-  for (let row = 1; row <= n; row++) {
-    dpMatrix.push([])
+function uniquePaths(m, n) {
+  let rows = new Array(m).fill(0);
+  let matrix = rows.map(v => new Array(n).fill(1))
+  for (let i = 1; i < m; i++) {
+    for (let j = 1; j < n; j++) {
+      matrix[i][j] = matrix[i][j-1] + matrix[i-1][j]
+    }    
   }
-  
-  console.log(dpMatrix)
-  //return value
+  return matrix[m-1][n-1]
 }
 
-console.log(uniquePaths(7, 3))
-// test('unique Paths', () => {
-//   //expect(uniquePaths(3, 2)).toEqual(3)
-//   expect(uniquePaths(7, 3)).toEqual(28)
-// });
+test('unique Paths', () => {
+  expect(uniquePaths(3, 2)).toEqual(3)
+  expect(uniquePaths(7, 3)).toEqual(28)
+});
