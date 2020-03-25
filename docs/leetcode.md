@@ -15,11 +15,12 @@
  11 | 053  [Maximum subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/053-maximum-subarray.js) |
  12 | 055  [Jump game](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/055-jump-game.js) |
  13 | 062  [Unique paths](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/062-unique-paths.js) |
- 14 | 121  [Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js) |
- 15 | 125  [Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js) |
- 16 | 152  [Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js) |
- 17 | 153  [Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js) |
- 18 | 206  [Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
- 19 | 217  [Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
- 20 | 238  [Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
- 21 | 242  [Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
+ 14 | 070  [Climbing stairs](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/070-climbing-stairs.js) |
+ 15 | 121  [Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js) |
+ 16 | 125  [Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js) |
+ 17 | 152  [Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js) |
+ 18 | 153  [Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js) |
+ 19 | 206  [Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
+ 20 | 217  [Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
+ 21 | 238  [Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
+ 22 | 242  [Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
