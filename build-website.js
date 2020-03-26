@@ -5,6 +5,7 @@ const githubRepo = 'https://github.com/ashishdotme/code.ashish.me/blob/master/'
 
 let content = ''
 let problems = []
+let totalProblemsCount = 0
 let linkTitle
 
 const capitalize = s => {
@@ -31,7 +32,7 @@ const fetchAllProblems = dir => {
                 .split('-')
                 .join(' ')
                 .replace(/\.[^/.]+$/, '')
-            linkTitle = `[${capitalize(title)}](${githubRepo}${filePath})`
+            linkTitle = dir === 'leetcode'? `[${Number(splitArr[0])}. ${capitalize(title)}](${githubRepo}${filePath})` : `[${capitalize(title)}](${githubRepo}${filePath})`
             problem.push(linkTitle)
             problems.push(problem)
           }
@@ -58,13 +59,9 @@ platforms.forEach(platform => {
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
   problems.forEach((item, index) => {
-    if (platform === 'leetcode') {
-      content += ` ${index + 1} | ${item[0]}  ${item[1]} |`
+    totalProblemsCount += 1
+    content += ` ${index + 1} | ${item[1]} |`
       content += '\n'
-    } else {
-      content += ` ${index + 1} | ${item[1]} |`
-      content += '\n'
-    }
   })
   fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function (err) {
     if (err) {
@@ -73,4 +70,28 @@ platforms.forEach(platform => {
       console.log(`Generated ${platform}.md`)
     }
   })
+})
+
+let mainReadme = `
+  ## code.ashish.me
+
+  Contains my solutions to programming challenges from various sources.
+
+  - [Leetcode](https://code.ashish.me/#/README)
+  - [Mix](https://code.ashish.me/#/100-algorithms)
+  - [Freecodecamp](https://code.ashish.me/#/freecodecamp)
+  - [Data Structures](https://code.ashish.me/#/data-structures)
+  - [Hacker Earth](https://code.ashish.me/#/hackerearth)
+  - [Project Euler](https://code.ashish.me/#/project-euler)
+
+`
+
+mainReadme += `Total problems solved -> ${totalProblemsCount}`
+
+fs.writeFile(`${__dirname}/README.md`, mainReadme, function (err) {
+  if (err) {
+    console.log(err)
+  } else {
+    console.log(`Generated README.md`)
+  }
 })
