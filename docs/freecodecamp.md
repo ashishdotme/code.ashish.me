@@ -3,11 +3,11 @@
   | # | Title |
   | :---: | :--- |
    1 | [Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/01-reverse-string.js) |
- 2 | [Sum all numbers in range](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intemediate/01-sum-all-numbers-in-range.js) |
+ 2 | [Sum all numbers in range](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/01-sum-all-numbers-in-range.js) |
  3 | [Factorize number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/02-factorize-number.js) |
- 4 | [Diff two arrays](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intemediate/02-diff-two-arrays.js) |
+ 4 | [Diff two arrays](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/02-diff-two-arrays.js) |
  5 | [Palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/03-palindrome.js) |
- 6 | [Roman numeral converter](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intemediate/03-roman-numeral-converter.js) |
+ 6 | [Seek and destroy](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/03-seek-and-destroy.js) |
  7 | [Largest number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/04-largest-number.js) |
  8 | [Confirm ending](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/05-confirm-ending.js) |
  9 | [Repeat string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/06-repeat-string.js) |
