@@ -21,18 +21,19 @@
  17 | [49. Group anagrams](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/049-group-anagrams.js) |
  18 | [53. Maximum subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/053-maximum-subarray.js) |
  19 | [55. Jump game](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/055-jump-game.js) |
- 20 | [62. Unique paths](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/062-unique-paths.js) |
- 21 | [70. Climbing stairs](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/070-climbing-stairs.js) |
- 22 | [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js) |
- 23 | [125. Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js) |
- 24 | [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js) |
- 25 | [152. Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js) |
- 26 | [153. Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js) |
- 27 | [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js) |
- 28 | [198. House robber](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/198-house-robber.js) |
- 29 | [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
- 30 | [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
- 31 | [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
- 32 | [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
- 33 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
- 34 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
+ 20 | [58. Length of last word](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/058-length-of-last-word.js) |
+ 21 | [62. Unique paths](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/062-unique-paths.js) |
+ 22 | [70. Climbing stairs](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/070-climbing-stairs.js) |
+ 23 | [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js) |
+ 24 | [125. Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js) |
+ 25 | [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js) |
+ 26 | [152. Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js) |
+ 27 | [153. Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js) |
+ 28 | [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js) |
+ 29 | [198. House robber](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/198-house-robber.js) |
+ 30 | [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
+ 31 | [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
+ 32 | [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
+ 33 | [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
+ 34 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
+ 35 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
