@@ -27,16 +27,17 @@
  23 | [70. Climbing stairs](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/070-climbing-stairs.js) |
  24 | [83. Remove duplicates from sorted list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/083-remove-duplicates-from-sorted-list.js) |
  25 | [88. Merge sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/088-merge-sorted-array.js) |
- 26 | [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js) |
- 27 | [125. Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js) |
- 28 | [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js) |
- 29 | [152. Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js) |
- 30 | [153. Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js) |
- 31 | [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js) |
- 32 | [198. House robber](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/198-house-robber.js) |
- 33 | [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
- 34 | [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
- 35 | [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
- 36 | [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
- 37 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
- 38 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
+ 26 | [100. Same tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/100-same-tree.js) |
+ 27 | [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js) |
+ 28 | [125. Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js) |
+ 29 | [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js) |
+ 30 | [152. Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js) |
+ 31 | [153. Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js) |
+ 32 | [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js) |
+ 33 | [198. House robber](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/198-house-robber.js) |
+ 34 | [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
+ 35 | [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
+ 36 | [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
+ 37 | [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
+ 38 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
+ 39 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
