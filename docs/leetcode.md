@@ -42,9 +42,10 @@
  38 | [258. Add digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/258-add-digits.js) |
  39 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
  40 | [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js) |
- 41 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
- 42 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
- 43 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
- 44 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
- 45 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
- 46 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
+ 41 | [367. Valid perfect square](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/367-valid-perfect-square.js) |
+ 42 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
+ 43 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
+ 44 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
+ 45 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
+ 46 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
+ 47 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
