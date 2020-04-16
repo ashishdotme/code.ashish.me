@@ -33,7 +33,6 @@ function rotateArray(nums, k) {
   reverse(0, nums.length - 1)
   reverse(0, k - 1)
   reverse(k, nums.length - 1)
-  console.log(nums)
   return nums
 }
 
