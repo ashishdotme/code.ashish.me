@@ -45,15 +45,16 @@
  41 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
  42 | [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js) |
  43 | [367. Valid perfect square](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/367-valid-perfect-square.js) |
- 44 | [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js) |
- 45 | [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js) |
- 46 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
- 47 | [507. Perfect number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/507-perfect-number.js) |
- 48 | [509. Fibonacci number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/509-fibonacci-number.js) |
- 49 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
- 50 | [680. Valid palindrome 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/680-valid-palindrome-2.js) |
- 51 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
- 52 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
- 53 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
- 54 | [1287. Element appearing more than 25% in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25%-in-sorted-array.js) |
- 55 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
+ 44 | [383. Ransome note](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/383-ransome-note.js) |
+ 45 | [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js) |
+ 46 | [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js) |
+ 47 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
+ 48 | [507. Perfect number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/507-perfect-number.js) |
+ 49 | [509. Fibonacci number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/509-fibonacci-number.js) |
+ 50 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
+ 51 | [680. Valid palindrome 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/680-valid-palindrome-2.js) |
+ 52 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
+ 53 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
+ 54 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
+ 55 | [1287. Element appearing more than 25% in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25%-in-sorted-array.js) |
+ 56 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
