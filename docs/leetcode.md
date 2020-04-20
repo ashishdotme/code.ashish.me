@@ -64,14 +64,15 @@
  60 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
  61 | [680. Valid palindrome 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/680-valid-palindrome-2.js) |
  62 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
- 63 | [819. Most common word](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/819-most-common-word.js) |
- 64 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
- 65 | [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1089-duplicate-zeros.js) |
- 66 | [1108. Defanging an ip address](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1108-defanging-an-ip-address.js) |
- 67 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1154-day-of-the-year.js) |
- 68 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
- 69 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
- 70 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
- 71 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero.js) |
- 72 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
- 73 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
+ 63 | [771. Jewels stones](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/771-jewels-stones.js) |
+ 64 | [819. Most common word](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/819-most-common-word.js) |
+ 65 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
+ 66 | [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1089-duplicate-zeros.js) |
+ 67 | [1108. Defanging an ip address](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1108-defanging-an-ip-address.js) |
+ 68 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1154-day-of-the-year.js) |
+ 69 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
+ 70 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
+ 71 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
+ 72 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero.js) |
+ 73 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
+ 74 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
