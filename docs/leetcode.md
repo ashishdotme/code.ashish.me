@@ -76,3 +76,4 @@
  72 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero.js) |
  73 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
  74 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
+ 75 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1365-how-many-numbers-are-smaller-than-the-current-number.js) |
