@@ -40,35 +40,36 @@
  36 | [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js) |
  37 | [189. Rotate array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/189-rotate-array.js) |
  38 | [198. House robber](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/198-house-robber.js) |
- 39 | [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
- 40 | [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
- 41 | [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
- 42 | [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
- 43 | [258. Add digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/258-add-digits.js) |
- 44 | [268. Missing numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/268-missing-numbers.js) |
- 45 | [283. Move zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/283-move-zeros.js) |
- 46 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
- 47 | [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js) |
- 48 | [345. Reverse vowels of a string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/345-reverse-vowels-of-a-string.js) |
- 49 | [367. Valid perfect square](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/367-valid-perfect-square.js) |
- 50 | [383. Ransome note](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/383-ransome-note.js) |
- 51 | [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js) |
- 52 | [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js) |
- 53 | [485. Max consecutive ones](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/485-max-consecutive-ones.js) |
- 54 | [492. Construct the rectangle](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/492-construct-the-rectangle.js) |
- 55 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
- 56 | [507. Perfect number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/507-perfect-number.js) |
- 57 | [509. Fibonacci number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/509-fibonacci-number.js) |
- 58 | [628. Maximum product of three numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/628-maximum-product-of-three-numbers.js) |
- 59 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
- 60 | [680. Valid palindrome 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/680-valid-palindrome-2.js) |
- 61 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
- 62 | [819. Most common word](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/819-most-common-word.js) |
- 63 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
- 64 | [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1089-duplicate-zeros.js) |
- 65 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1154-day-of-the-year.js) |
- 66 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
- 67 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
- 68 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
- 69 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
- 70 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
+ 39 | [203. Remove linked list elements](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/203-remove-linked-list-elements.js) |
+ 40 | [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js) |
+ 41 | [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js) |
+ 42 | [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js) |
+ 43 | [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js) |
+ 44 | [258. Add digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/258-add-digits.js) |
+ 45 | [268. Missing numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/268-missing-numbers.js) |
+ 46 | [283. Move zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/283-move-zeros.js) |
+ 47 | [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js) |
+ 48 | [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js) |
+ 49 | [345. Reverse vowels of a string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/345-reverse-vowels-of-a-string.js) |
+ 50 | [367. Valid perfect square](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/367-valid-perfect-square.js) |
+ 51 | [383. Ransome note](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/383-ransome-note.js) |
+ 52 | [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js) |
+ 53 | [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js) |
+ 54 | [485. Max consecutive ones](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/485-max-consecutive-ones.js) |
+ 55 | [492. Construct the rectangle](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/492-construct-the-rectangle.js) |
+ 56 | [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js) |
+ 57 | [507. Perfect number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/507-perfect-number.js) |
+ 58 | [509. Fibonacci number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/509-fibonacci-number.js) |
+ 59 | [628. Maximum product of three numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/628-maximum-product-of-three-numbers.js) |
+ 60 | [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js) |
+ 61 | [680. Valid palindrome 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/680-valid-palindrome-2.js) |
+ 62 | [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js) |
+ 63 | [819. Most common word](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/819-most-common-word.js) |
+ 64 | [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js) |
+ 65 | [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1089-duplicate-zeros.js) |
+ 66 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1154-day-of-the-year.js) |
+ 67 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
+ 68 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
+ 69 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
+ 70 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
+ 71 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
