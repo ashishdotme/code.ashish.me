@@ -73,13 +73,14 @@
  69 | [1108. Defanging an ip address](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1108-defanging-an-ip-address.js) |
  70 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1154-day-of-the-year.js) |
  71 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
- 72 | [1221. Split a string in balanced strings](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1221-split-a-string-in-balanced-strings.js) |
- 73 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
- 74 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
- 75 | [1295. Find numbers with even number of digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1295-find-numbers-with-even-number-of-digits.js) |
- 76 | [1304. Find n unique integers sum up to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1304-find-n-unique-integers-sum-up-to-zero.js) |
- 77 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero.js) |
- 78 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
- 79 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
- 80 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1365-how-many-numbers-are-smaller-than-the-current-number.js) |
- 81 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1389-create-target-array-in-the-given-order.js) |
+ 72 | [1207. Unique number of occurrences](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1207-unique-number-of-occurrences.js) |
+ 73 | [1221. Split a string in balanced strings](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1221-split-a-string-in-balanced-strings.js) |
+ 74 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
+ 75 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
+ 76 | [1295. Find numbers with even number of digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1295-find-numbers-with-even-number-of-digits.js) |
+ 77 | [1304. Find n unique integers sum up to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1304-find-n-unique-integers-sum-up-to-zero.js) |
+ 78 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero.js) |
+ 79 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
+ 80 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
+ 81 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1365-how-many-numbers-are-smaller-than-the-current-number.js) |
+ 82 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1389-create-target-array-in-the-given-order.js) |
