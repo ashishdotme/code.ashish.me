@@ -72,5 +72,6 @@
  68 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js) |
  69 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
  70 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1287-element-appearing-more-than-25percent-in-sorted-array.js) |
- 71 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
- 72 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
+ 71 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1342-number-of-steps-to-reduce-a-number-to-zero.js) |
+ 72 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1346-check-if-n-and-its-double-exist.js) |
+ 73 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
