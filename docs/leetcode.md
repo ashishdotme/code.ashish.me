@@ -84,4 +84,5 @@
  80 | [1351. Count negative numbers in a sorted matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1351-count-negative-numbers-in-a-sorted-matrix.js) |
  81 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1360-number-of-days-between-two-dates.js) |
  82 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1365-how-many-numbers-are-smaller-than-the-current-number.js) |
- 83 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1389-create-target-array-in-the-given-order.js) |
+ 83 | [1374. Generate a string with characters that have odd counts](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1374-generate-a-string-with-characters-that-have-odd-counts.js) |
+ 84 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1389-create-target-array-in-the-given-order.js) |
