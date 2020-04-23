@@ -63,6 +63,12 @@ platforms.forEach(platform => {
     content += ` ${index + 1} | ${item[1]} |`
       content += '\n'
   })
+  fs.writeFile(`${__dirname}/${platform}/README.md`, content, function (err) {
+    if (err) {
+      console.log(err)
+    } else {
+    }
+  })
   fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function (err) {
     if (err) {
       console.log(err)
