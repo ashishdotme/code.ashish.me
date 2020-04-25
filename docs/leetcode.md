@@ -92,4 +92,5 @@
  88 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1365-how-many-numbers-are-smaller-than-the-current-number.js) |
  89 | [1374. Generate a string with characters that have odd counts](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1374-generate-a-string-with-characters-that-have-odd-counts.js) |
  90 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1389-create-target-array-in-the-given-order.js) |
- 91 | [1417. Reformat the string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1417-reformat-the-string.js) |
+ 91 | [1394. Find lucky integer in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1394-find-lucky-integer-in-an-array.js) |
+ 92 | [1417. Reformat the string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1417-reformat-the-string.js) |
