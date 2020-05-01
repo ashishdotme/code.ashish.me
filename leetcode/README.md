@@ -77,23 +77,24 @@
  73 | [929. Unique email addresses](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\929-unique-email-addresses.js) |
  74 | [977. Squares of a sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\977-squares-of-a-sorted-array.js) |
  75 | [1029. Two city scheduling](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1029-two-city-scheduling.js) |
- 76 | [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1089-duplicate-zeros.js) |
- 77 | [1103. Distribute candies to people](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1103-distribute-candies-to-people.js) |
- 78 | [1108. Defanging an ip address](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1108-defanging-an-ip-address.js) |
- 79 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1154-day-of-the-year.js) |
- 80 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1189-maximum-number-of-balloons.js) |
- 81 | [1207. Unique number of occurrences](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1207-unique-number-of-occurrences.js) |
- 82 | [1221. Split a string in balanced strings](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1221-split-a-string-in-balanced-strings.js) |
- 83 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
- 84 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1287-element-appearing-more-than-25percent-in-sorted-array.js) |
- 85 | [1295. Find numbers with even number of digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1295-find-numbers-with-even-number-of-digits.js) |
- 86 | [1304. Find n unique integers sum up to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1304-find-n-unique-integers-sum-up-to-zero.js) |
- 87 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1342-number-of-steps-to-reduce-a-number-to-zero.js) |
- 88 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1346-check-if-n-and-its-double-exist.js) |
- 89 | [1351. Count negative numbers in a sorted matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1351-count-negative-numbers-in-a-sorted-matrix.js) |
- 90 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1360-number-of-days-between-two-dates.js) |
- 91 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1365-how-many-numbers-are-smaller-than-the-current-number.js) |
- 92 | [1374. Generate a string with characters that have odd counts](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1374-generate-a-string-with-characters-that-have-odd-counts.js) |
- 93 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1389-create-target-array-in-the-given-order.js) |
- 94 | [1394. Find lucky integer in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1394-find-lucky-integer-in-an-array.js) |
- 95 | [1417. Reformat the string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1417-reformat-the-string.js) |
+ 76 | [1051. Height checker](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1051-height-checker.js) |
+ 77 | [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1089-duplicate-zeros.js) |
+ 78 | [1103. Distribute candies to people](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1103-distribute-candies-to-people.js) |
+ 79 | [1108. Defanging an ip address](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1108-defanging-an-ip-address.js) |
+ 80 | [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1154-day-of-the-year.js) |
+ 81 | [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1189-maximum-number-of-balloons.js) |
+ 82 | [1207. Unique number of occurrences](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1207-unique-number-of-occurrences.js) |
+ 83 | [1221. Split a string in balanced strings](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1221-split-a-string-in-balanced-strings.js) |
+ 84 | [1281. Subtract the product and sum of digits of an integer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1281-subtract-the-product-and-sum-of-digits-of-an-integer.js) |
+ 85 | [1287. Element appearing more than 25percent in sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1287-element-appearing-more-than-25percent-in-sorted-array.js) |
+ 86 | [1295. Find numbers with even number of digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1295-find-numbers-with-even-number-of-digits.js) |
+ 87 | [1304. Find n unique integers sum up to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1304-find-n-unique-integers-sum-up-to-zero.js) |
+ 88 | [1342. Number of steps to reduce a number to zero](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1342-number-of-steps-to-reduce-a-number-to-zero.js) |
+ 89 | [1346. Check if n and its double exist](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1346-check-if-n-and-its-double-exist.js) |
+ 90 | [1351. Count negative numbers in a sorted matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1351-count-negative-numbers-in-a-sorted-matrix.js) |
+ 91 | [1360. Number of days between two dates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1360-number-of-days-between-two-dates.js) |
+ 92 | [1365. How many numbers are smaller than the current number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1365-how-many-numbers-are-smaller-than-the-current-number.js) |
+ 93 | [1374. Generate a string with characters that have odd counts](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1374-generate-a-string-with-characters-that-have-odd-counts.js) |
+ 94 | [1389. Create target array in the given order](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1389-create-target-array-in-the-given-order.js) |
+ 95 | [1394. Find lucky integer in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1394-find-lucky-integer-in-an-array.js) |
+ 96 | [1417. Reformat the string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode\1417-reformat-the-string.js) |
