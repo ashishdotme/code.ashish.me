@@ -1,6 +1,7 @@
 # Leetcode Problems
 
-  - [1. Two sum](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/001-two-sum.js)
+  
+- [1. Two sum](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/001-two-sum.js)
 - [2. Add two numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/002-add-two-numbers.js)
 - [3. Longest substring without repeating characters](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/003-longest-substring-without-repeating-characters.js)
 - [5. Longest palindrome substring](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/005-longest-palindrome-substring.js)

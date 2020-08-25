@@ -59,6 +59,7 @@ platforms.forEach((platform) => {
   `
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
+  content += '\n'
   problems.forEach((item, index) => {
     totalProblemsCount += 1
     content += `- ${item[1]}`

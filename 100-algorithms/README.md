@@ -1,6 +1,7 @@
 # 100-algorithms Problems
 
-  - [Absolute values sum minimization](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/001-absolute-values-sum-minimization.js)
+  
+- [Absolute values sum minimization](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/001-absolute-values-sum-minimization.js)
 - [Add](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/002-add.js)
 - [Add border](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/003-add-border.js)
 - [Add two digits](https://github.com/ashishdotme/code.ashish.me/blob/master/100-algorithms/004-add-two-digits.js)

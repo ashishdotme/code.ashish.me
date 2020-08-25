@@ -1,6 +1,7 @@
 # Common Problems
 
-  - [Find area of circle](https://github.com/ashishdotme/code.ashish.me/blob/master/common/01-find-area-of-circle.js)
+  
+- [Find area of circle](https://github.com/ashishdotme/code.ashish.me/blob/master/common/01-find-area-of-circle.js)
 - [Check armstrong number](https://github.com/ashishdotme/code.ashish.me/blob/master/common/02-check-armstrong-number.js)
 - [Convert decimal to binary](https://github.com/ashishdotme/code.ashish.me/blob/master/common/03-convert-decimal-to-binary.js)
 - [Fiobancci](https://github.com/ashishdotme/code.ashish.me/blob/master/common/04-fiobancci.js)
