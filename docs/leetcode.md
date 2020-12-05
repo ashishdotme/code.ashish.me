@@ -75,6 +75,7 @@
 - [867. Transpose matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/867-transpose-matrix.js)
 - [905. Sort array by parity](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/905-sort-array-by-parity.js)
 - [929. Unique email addresses](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/929-unique-email-addresses.js)
+- [938. Range sum of bst](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/938-range-sum-of-bst.js)
 - [977. Squares of a sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/977-squares-of-a-sorted-array.js)
 - [1029. Two city scheduling](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1029-two-city-scheduling.js)
 - [1051. Height checker](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1051-height-checker.js)
