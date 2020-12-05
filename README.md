@@ -15,6 +15,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [938 Range Sum Of Bst.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/938-range-sum-of-bst.js) - *last updated at 2020-12-05*
 * **Leetcode** - [102 Binary Tree Level Order Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/102-binary-tree-level-order-traversal.js) - *last updated at 2020-12-05*
 * **Leetcode** - [1051 Height Checker.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1051-height-checker.js) - *last updated at 2020-05-01*
 * **Leetcode** - [700 Search In A Binary Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/700-search-in-a-binary-search-tree.js) - *last updated at 2020-05-01*
