@@ -1,18 +1,17 @@
 # Data-structures Problems
 
-  | # | Title |
-  | :---: | :--- |
-   1 | [Highest and lowest weather](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/arrays/01-highest-and-lowest-weather.js) |
- 2 | [Graph](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/graph/01-graph.js) |
- 3 | [Hash table](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/hash-maps/01-hash-table.js) |
- 4 | [Linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/linked-lists/01-linked-list.js) |
- 5 | [Queue using linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/queue/01-queue-using-linked-list.js) |
- 6 | [Linked list stack](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/01-linked-list-stack.js) |
- 7 | [Tree](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/tree/01-tree.js) |
- 8 | [Pairwise array comparisons](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/arrays/02-pairwise-array-comparisons.js) |
- 9 | [Binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/tree/02-binary-search-tree.js) |
- 10 | [Array stack](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/02-array-stack.js) |
- 11 | [Josephus challenge](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/queue/02-josephus-challenge.js) |
- 12 | [Balance parentheses](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/03-balance-parentheses.js) |
- 13 | [Sieve of eratosthenes](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/queue/03-sieve-of-eratosthenes.js) |
- 14 | [Condense numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/04-condense-numbers.js) |
+  
+- [Highest and lowest weather](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/arrays/01-highest-and-lowest-weather.js)
+- [Graph](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/graph/01-graph.js)
+- [Hash table](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/hash-maps/01-hash-table.js)
+- [Linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/linked-lists/01-linked-list.js)
+- [Queue using linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/queue/01-queue-using-linked-list.js)
+- [Linked list stack](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/01-linked-list-stack.js)
+- [Tree](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/tree/01-tree.js)
+- [Pairwise array comparisons](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/arrays/02-pairwise-array-comparisons.js)
+- [Binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/tree/02-binary-search-tree.js)
+- [Array stack](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/02-array-stack.js)
+- [Josephus challenge](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/queue/02-josephus-challenge.js)
+- [Balance parentheses](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/03-balance-parentheses.js)
+- [Sieve of eratosthenes](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/queue/03-sieve-of-eratosthenes.js)
+- [Condense numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/data-structures/stack/04-condense-numbers.js)

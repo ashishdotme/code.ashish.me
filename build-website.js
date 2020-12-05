@@ -8,12 +8,12 @@ let problems = []
 let totalProblemsCount = 0
 let linkTitle
 
-const capitalize = s => {
+const capitalize = (s) => {
   if (typeof s !== 'string') return ''
   return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
-const fetchAllProblems = dir => {
+const fetchAllProblems = (dir) => {
   const files = fs.readdirSync(dir)
   files.forEach((file, index) => {
     const filePath = path.normalize(`${dir}/${file}`)
@@ -32,7 +32,10 @@ const fetchAllProblems = dir => {
                 .split('-')
                 .join(' ')
                 .replace(/\.[^/.]+$/, '')
-            linkTitle = dir === 'leetcode'? `[${Number(splitArr[0])}. ${capitalize(title)}](${githubRepo}${filePath})` : `[${capitalize(title)}](${githubRepo}${filePath})`
+            linkTitle =
+              dir === 'leetcode'
+                ? `[${Number(splitArr[0])}. ${capitalize(title)}](${githubRepo}${filePath})`
+                : `[${capitalize(title)}](${githubRepo}${filePath})`
             problem.push(linkTitle)
             problems.push(problem)
           }
@@ -46,22 +49,21 @@ const fetchAllProblems = dir => {
 
 const srcDir = fs.readdirSync(__dirname, { withFileTypes: true })
 const platforms = srcDir
-  .filter(dirent => dirent.isDirectory())
-  .map(dirent => dirent.name)
-  .filter(folder => folder[0] !== '.' && folder !== 'docs' && folder !== 'node_modules')
-platforms.forEach(platform => {
+  .filter((dirent) => dirent.isDirectory())
+  .map((dirent) => dirent.name)
+  .filter((folder) => folder[0] !== '.' && folder !== 'docs' && folder !== 'node_modules')
+platforms.forEach((platform) => {
   problems = []
   content = `# ${capitalize(platform)} Problems
 
-  | # | Title |
-  | :---: | :--- |
   `
   fetchAllProblems(platform)
   problems.sort((fileA, fileB) => fileA[0] - fileB[0])
+  content += '\n'
   problems.forEach((item, index) => {
     totalProblemsCount += 1
-    content += ` ${index + 1} | ${item[1]} |`
-      content += '\n'
+    content += `- ${item[1]}`
+    content += '\n'
   })
   fs.writeFile(`${__dirname}/${platform}/README.md`, content, function (err) {
     if (err) {
@@ -78,27 +80,27 @@ platforms.forEach(platform => {
   })
 })
 
-let mainReadme = `
-  ## code.ashish.me
+// let mainReadme = `
+//   # code.ashish.me
 
-  Contains my solutions to programming challenges from various sources.
+//   Contains my solutions to programming challenges from various sources.
 
-  - [Leetcode](https://code.ashish.me/#/README)
-  - [Miscellaneous](https://code.ashish.me/#/100-algorithms)
-  - [Freecodecamp](https://code.ashish.me/#/freecodecamp)
-  - [Data Structures](https://code.ashish.me/#/data-structures)
-  - [Codesignal](https://code.ashish.me/#/codesignal)
-  - [Hacker Earth](https://code.ashish.me/#/hackerearth)
-  - [Project Euler](https://code.ashish.me/#/project-euler)
+//   - [Leetcode](https://code.ashish.me/#/README)
+//   - [Miscellaneous](https://code.ashish.me/#/100-algorithms)
+//   - [Freecodecamp](https://code.ashish.me/#/freecodecamp)
+//   - [Data Structures](https://code.ashish.me/#/data-structures)
+//   - [Codesignal](https://code.ashish.me/#/codesignal)
+//   - [Hacker Earth](https://code.ashish.me/#/hackerearth)
+//   - [Project Euler](https://code.ashish.me/#/project-euler)
 
-`
+// `
 
-mainReadme += `Total problems solved -> ${totalProblemsCount}`
+// mainReadme += `Total problems solved -> ${totalProblemsCount}`
 
-fs.writeFile(`${__dirname}/README.md`, mainReadme, function (err) {
-  if (err) {
-    console.log(err)
-  } else {
-    console.log(`Generated README.md`)
-  }
-})
+// fs.writeFile(`${__dirname}/README.md`, mainReadme, function (err) {
+//   if (err) {
+//     console.log(err)
+//   } else {
+//     console.log(`Generated README.md`)
+//   }
+// })
