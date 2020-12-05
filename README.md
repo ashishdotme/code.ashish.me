@@ -12,9 +12,6 @@
 
 <p align="center">🎓 coding exercises from leetcode, hackerrank, codesignal etc.</p>
 
-<<<<<<< HEAD
-Total problems solved -> 213
-=======
 ## Index
 
 <!-- index starts -->
@@ -232,4 +229,3 @@ Total problems solved -> 213
 * **Common** - [01 Find Area Of Circle.js](https://github.com/ashishdotme/code.ashish.me/blob/master/common/01-find-area-of-circle.js) - *last updated at 2019-11-27*
 * **Common** - [02 Check Armstrong Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/common/02-check-armstrong-number.js) - *last updated at 2019-11-24*
 <!-- index ends -->
->>>>>>> 94e41d8855e6befbebc479bd5ec15d1c00fc27d5
