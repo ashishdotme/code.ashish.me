@@ -62,6 +62,7 @@
 - [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js)
 - [507. Perfect number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/507-perfect-number.js)
 - [509. Fibonacci number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/509-fibonacci-number.js)
+- [589. Preorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/589-preorder-traversal.js)
 - [617. Merge two binary trees](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/617-merge-two-binary-trees.js)
 - [628. Maximum product of three numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/628-maximum-product-of-three-numbers.js)
 - [633. Sum of square numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/633-sum-of-square-numbers.js)
