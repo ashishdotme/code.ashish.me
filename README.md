@@ -15,6 +15,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [1022 Sum Of Root To Leaf Binary Numbers.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1022-sum-of-root-to-leaf-binary-numbers.js) - *last updated at 2020-12-06*
 * **Leetcode** - [590 Postorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/590-postorder-traversal.js) - *last updated at 2020-12-06*
 * **Leetcode** - [589 Preorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/589-preorder-traversal.js) - *last updated at 2020-12-06*
 * **Leetcode** - [897 Increasing Order Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/897-increasing-order-search-tree.js) - *last updated at 2020-12-06*
