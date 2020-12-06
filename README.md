@@ -15,6 +15,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [965 Univalued Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/965-univalued-binary-tree.js) - *last updated at 2020-12-06*
 * **Leetcode** - [559 Maximum Depth Of Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/559-maximum-depth-of-tree.js) - *last updated at 2020-12-06*
 * **Leetcode** - [1022 Sum Of Root To Leaf Binary Numbers.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1022-sum-of-root-to-leaf-binary-numbers.js) - *last updated at 2020-12-06*
 * **Leetcode** - [590 Postorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/590-postorder-traversal.js) - *last updated at 2020-12-06*
