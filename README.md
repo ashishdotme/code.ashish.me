@@ -15,6 +15,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [589 Preorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/589-preorder-traversal.js) - *last updated at 2020-12-06*
 * **Leetcode** - [897 Increasing Order Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/897-increasing-order-search-tree.js) - *last updated at 2020-12-06*
 * **Leetcode** - [617 Merge Two Binary Trees.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/617-merge-two-binary-trees.js) - *last updated at 2020-12-05*
 * **Leetcode** - [938 Range Sum Of Bst.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/938-range-sum-of-bst.js) - *last updated at 2020-12-05*
