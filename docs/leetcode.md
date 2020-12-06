@@ -81,6 +81,7 @@
 - [929. Unique email addresses](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/929-unique-email-addresses.js)
 - [938. Range sum of bst](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/938-range-sum-of-bst.js)
 - [977. Squares of a sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/977-squares-of-a-sorted-array.js)
+- [1022. Sum of root to leaf binary numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1022-sum-of-root-to-leaf-binary-numbers.js)
 - [1029. Two city scheduling](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1029-two-city-scheduling.js)
 - [1051. Height checker](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1051-height-checker.js)
 - [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1089-duplicate-zeros.js)
