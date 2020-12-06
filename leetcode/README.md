@@ -43,6 +43,7 @@
 - [203. Remove linked list elements](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/203-remove-linked-list-elements.js)
 - [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js)
 - [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js)
+- [226. Invert binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/226-invert-binary-tree.js)
 - [237. Delete node in a linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/237-delete-node-in-a-linked-list.js)
 - [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js)
 - [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js)
