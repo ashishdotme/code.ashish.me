@@ -15,6 +15,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [669 Trim A Binary Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/669-trim-a-binary-search-tree.js) - *last updated at 2020-12-07*
 * **Leetcode** - [637 Average Of Levels In Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/637-average-of-levels-in-binary-tree.js) - *last updated at 2020-12-07*
 * **Leetcode** - [872 Leaf Similar Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/872-leaf-similar-tree.js) - *last updated at 2020-12-07*
 * **Leetcode** - [226 Invert Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/226-invert-binary-tree.js) - *last updated at 2020-12-06*
