@@ -12,7 +12,9 @@
 
 <p align="center">🎓 coding exercises from leetcode, hackerrank, codesignal etc.</p>
 
-<!-- count -->228<!-- count -->
+## Stats
+
+<!-- count -->228<!-- count --> questions solved so far.
 
 ## Index
 
