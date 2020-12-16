@@ -3,8 +3,8 @@
   
 - [Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/01-reverse-string.js)
 - [Sum all numbers in range](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/01-sum-all-numbers-in-range.js)
-- [Diff two arrays](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/02-diff-two-arrays.js)
 - [Factorize number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/02-factorize-number.js)
+- [Diff two arrays](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/02-diff-two-arrays.js)
 - [Palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/03-palindrome.js)
 - [Seek and destroy](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/03-seek-and-destroy.js)
 - [Largest number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/04-largest-number.js)
