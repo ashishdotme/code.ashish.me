@@ -18,6 +18,7 @@
 
 
 ## Sources
+
   - [Leetcode](https://github.com/ashishdotme/code.ashish.me/tree/master/leetcode)
   - [Miscellaneous](https://github.com/ashishdotme/code.ashish.me/tree/master/common)
   - [Freecodecamp](https://github.com/ashishdotme/code.ashish.me/tree/master/freecodecamp)
@@ -27,11 +28,14 @@
   - [Project Euler](https://github.com/ashishdotme/code.ashish.me/tree/master/project-euler)
 
 ## Notes
+
 ![complexity](./docs/assets/complexity.png)
 
 ## Index
 
 <!-- index starts -->
+* **Algoexpert** - [03 Depth First Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/03-depth-first-search.js) - *last updated at 2020-12-18*
+* **Algoexpert** - [04 Linked List.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/04-linked-list.js) - *last updated at 2020-12-18*
 * **Algoexpert** - [01 Two Number Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/01-two-number-sum.js) - *last updated at 2020-12-17*
 * **Algoexpert** - [02 Find Closest Value In Binary Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/02-find-closest-value-in-binary-search-tree.js) - *last updated at 2020-12-17*
 * **Leetcode** - [653 Two Sum Iv Input Is Bst.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/653-two-sum-iv-input-is-bst.js) - *last updated at 2020-12-12*
