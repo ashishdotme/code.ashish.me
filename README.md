@@ -14,7 +14,20 @@
 
 ## Stats
 
-<!-- count -->228<!-- count --> questions solved so far.
+<!-- count -->228<!-- count --> questions solved so far.  
+
+
+## Sources
+  - [Leetcode](https://github.com/ashishdotme/code.ashish.me/tree/master/leetcode)
+  - [Miscellaneous](https://github.com/ashishdotme/code.ashish.me/tree/master/common)
+  - [Freecodecamp](https://github.com/ashishdotme/code.ashish.me/tree/master/freecodecamp)
+  - [Data Structures](https://github.com/ashishdotme/code.ashish.me/tree/master/data-structures)
+  - [Codesignal](https://github.com/ashishdotme/code.ashish.me/tree/master/codesignal)
+  - [Hacker Earth](https://github.com/ashishdotme/code.ashish.me/tree/master/hackerearth)
+  - [Project Euler](https://github.com/ashishdotme/code.ashish.me/tree/master/project-euler)
+
+## Notes
+![complexity](./docs/assets/complexity.png)
 
 ## Index
 
