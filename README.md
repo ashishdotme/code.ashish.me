@@ -14,7 +14,6 @@
 
 ## Stats
 
-<<<<<<< HEAD
 <!-- count -->228<!-- count --> questions solved so far.  
 
 
@@ -29,9 +28,6 @@
 
 ## Notes
 ![complexity](./docs/assets/complexity.png)
-=======
-<!-- count -->230<!-- count --> questions solved so far.
->>>>>>> 3baa85984d0ccb615eea20577c4df013d704634a
 
 ## Index
 
