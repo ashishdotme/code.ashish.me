@@ -42,6 +42,7 @@
   "homepage": "https://github.com/ashishdotme/code.ashish.me#readme",
   "dependencies": {
     "@babel/core": "^7.7.4",
+    "@babel/helper-compilation-targets": "^7.12.5",
     "@babel/preset-env": "^7.7.4",
     "ashishdotme-generator": "^1.0.0",
     "babel-core": "^6.26.3",
