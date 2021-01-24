@@ -14,7 +14,7 @@
 
 ## Stats
 
-<!-- count -->233<!-- count --> questions solved so far.  
+<!-- count -->234<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -34,6 +34,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [041 First Missing Positive.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/041-first-missing-positive.js) - *last updated at 2021-01-25*
 * **Leetcode** - [011 Container With Most Water.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/011-container-with-most-water.js) - *last updated at 2021-01-01*
 * **Algoexpert** - [03 Depth First Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/03-depth-first-search.js) - *last updated at 2020-12-18*
 * **Algoexpert** - [04 Linked List.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/04-linked-list.js) - *last updated at 2020-12-18*
