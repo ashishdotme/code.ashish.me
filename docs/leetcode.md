@@ -17,6 +17,7 @@
 - [33. Search in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/033-search-in-rotated-sorted-array.js)
 - [35. Search insert position](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/035-search-insert-position.js)
 - [38. Count and say](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/038-count-and-say.js)
+- [41. First missing positive](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/041-first-missing-positive.js)
 - [48. Rotate image](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/048-rotate-image.js)
 - [49. Group anagrams](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/049-group-anagrams.js)
 - [53. Maximum subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/053-maximum-subarray.js)
