@@ -32,6 +32,7 @@
 - [102. Binary tree level order traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/102-binary-tree-level-order-traversal.js)
 - [103. Binary tree zigzag level order traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/103-binary-tree-zigzag-level-order-traversal.js)
 - [104. Maximum depth of binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/104-maximum-depth-of-binary-tree.js)
+- [105. Construct binary tree from preorder and inorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/105-construct-binary-tree-from-preorder-and-inorder-traversal.js)
 - [108. Convert sorted array to binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/108-convert-sorted-array-to-binary-search-tree.js)
 - [111. Minimum depth of binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/111-minimum-depth-of-binary-tree.js)
 - [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js)
