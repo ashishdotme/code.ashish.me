@@ -14,7 +14,7 @@
 
 ## Stats
 
-<!-- count -->239<!-- count --> questions solved so far.  
+<!-- count -->241<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -34,6 +34,8 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [113 Path Sum 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/113-path-sum-2.js) - *last updated at 2021-01-30*
+* **Leetcode** - [124 Binary Tree Maximum Path Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/124-binary-tree-maximum-path-sum.js) - *last updated at 2021-01-30*
 * **Leetcode** - [112 Path Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/112-path-sum.js) - *last updated at 2021-01-30*
 * **Leetcode** - [107 Binary Tree Level Order Traversal 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/107-binary-tree-level-order-traversal-2.js) - *last updated at 2021-01-30*
 * **Leetcode** - [105 Construct Binary Tree From Preorder And Inorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/105-construct-binary-tree-from-preorder-and-inorder-traversal.js) - *last updated at 2021-01-30*
