@@ -50,7 +50,6 @@ WordDictionary.prototype.search = function(word) {
     }
     if (word[index] === '.') {
       for (const [k, v] of node.children) {
-        console.log(k, v)
         if (helper(word, index + 1, v)) {
           return true
         }
