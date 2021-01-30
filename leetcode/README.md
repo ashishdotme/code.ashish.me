@@ -36,6 +36,7 @@
 - [107. Binary tree level order traversal 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/107-binary-tree-level-order-traversal-2.js)
 - [108. Convert sorted array to binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/108-convert-sorted-array-to-binary-search-tree.js)
 - [111. Minimum depth of binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/111-minimum-depth-of-binary-tree.js)
+- [112. Path sum](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/112-path-sum.js)
 - [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js)
 - [125. Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js)
 - [136. Single number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/136-single-number.js)
