@@ -6,8 +6,6 @@
  *
  */
 
-const { max } = require('big-integer')
-
 function TreeNode(val) {
   this.val = val
   this.left = this.right = null
