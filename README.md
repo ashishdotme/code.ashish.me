@@ -14,7 +14,7 @@
 
 ## Stats
 
-<!-- count -->249<!-- count --> questions solved so far.  
+<!-- count -->251<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -34,6 +34,8 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [442 Find All Duplicates In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/442-find-all-duplicates-in-an-array.js) - *last updated at 2021-01-31*
+* **Leetcode** - [572 Subtree Of Another Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/572-subtree-of-another-tree.js) - *last updated at 2021-01-31*
 * **Leetcode** - [543 Diameter Of Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/543-diameter-of-binary-tree.js) - *last updated at 2021-01-31*
 * **Leetcode** - [1672 Richest Customer Wealth.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1672-richest-customer-wealth.js) - *last updated at 2021-01-31*
 * **Leetcode** - [1480 Running Sum Of 1d Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1480-running-sum-of-1d-array.js) - *last updated at 2021-01-31*
@@ -49,7 +51,7 @@
 * **Leetcode** - [105 Construct Binary Tree From Preorder And Inorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/105-construct-binary-tree-from-preorder-and-inorder-traversal.js) - *last updated at 2021-01-30*
 * **Leetcode** - [103 Binary Tree Zigzag Level Order Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/103-binary-tree-zigzag-level-order-traversal.js) - *last updated at 2021-01-25*
 * **Leetcode** - [606 Construct String From Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/606-construct-string-from-binary-tree.js) - *last updated at 2021-01-25*
-* **Leetcode** - [041 First Missing Positive.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/041-first-missing-positive.js) - *last updated at 2021-01-25*
+* **Leetcode** - [041 First Missing Positive.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/041-first-missing-positive.js) - *last updated at 2021-01-31*
 * **Leetcode** - [011 Container With Most Water.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/011-container-with-most-water.js) - *last updated at 2021-01-01*
 * **Algoexpert** - [03 Depth First Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/03-depth-first-search.js) - *last updated at 2020-12-18*
 * **Algoexpert** - [04 Linked List.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/04-linked-list.js) - *last updated at 2020-12-18*
