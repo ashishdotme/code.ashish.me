@@ -56,6 +56,7 @@
 - [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js)
 - [226. Invert binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/226-invert-binary-tree.js)
 - [230. Kth smallest element in a bst](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/230-kth-smallest-element-in-a-bst.js)
+- [235. Lowest common ancestor of a binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/235-lowest-common-ancestor-of-a-binary-search-tree.js)
 - [237. Delete node in a linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/237-delete-node-in-a-linked-list.js)
 - [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js)
 - [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js)
