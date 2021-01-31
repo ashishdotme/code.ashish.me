@@ -14,7 +14,7 @@
 
 ## Stats
 
-<!-- count -->248<!-- count --> questions solved so far.  
+<!-- count -->249<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -34,6 +34,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [543 Diameter Of Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/543-diameter-of-binary-tree.js) - *last updated at 2021-01-31*
 * **Leetcode** - [1672 Richest Customer Wealth.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1672-richest-customer-wealth.js) - *last updated at 2021-01-31*
 * **Leetcode** - [1480 Running Sum Of 1d Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1480-running-sum-of-1d-array.js) - *last updated at 2021-01-31*
 * **Leetcode** - [437 Path Sum 3.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/437-path-sum-3.js) - *last updated at 2021-01-31*
