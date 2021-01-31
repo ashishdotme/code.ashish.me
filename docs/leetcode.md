@@ -127,3 +127,4 @@
 - [1394. Find lucky integer in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1394-find-lucky-integer-in-an-array.js)
 - [1417. Reformat the string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1417-reformat-the-string.js)
 - [1480. Running sum of 1d array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1480-running-sum-of-1d-array.js)
+- [1672. Richest customer wealth](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1672-richest-customer-wealth.js)

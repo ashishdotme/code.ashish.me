@@ -21,7 +21,6 @@ const runningSumOf1DArray = nums => {
     helper(nums, index + 1, sum + nums[index])
   }
   helper(nums, 0, 0)
-  console.log(result)
   return result
 }
 
