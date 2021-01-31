@@ -77,6 +77,7 @@
 - [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js)
 - [507. Perfect number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/507-perfect-number.js)
 - [509. Fibonacci number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/509-fibonacci-number.js)
+- [543. Diameter of binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/543-diameter-of-binary-tree.js)
 - [559. Maximum depth of tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/559-maximum-depth-of-tree.js)
 - [589. Preorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/589-preorder-traversal.js)
 - [590. Postorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/590-postorder-traversal.js)
