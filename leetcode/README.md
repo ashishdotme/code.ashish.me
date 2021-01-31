@@ -71,6 +71,7 @@
 - [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js)
 - [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js)
 - [414. Third maxmium number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/414-third-maxmium-number.js)
+- [437. Path sum 3](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/437-path-sum-3.js)
 - [485. Max consecutive ones](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/485-max-consecutive-ones.js)
 - [492. Construct the rectangle](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/492-construct-the-rectangle.js)
 - [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js)
