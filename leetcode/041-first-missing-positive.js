@@ -7,15 +7,16 @@
  */
 
 const firstMissingPositive = nums => {
-  let map = {}
-  for (let i = 0; i < nums.length; i++) {
-    map[nums[i]] = map[nums[i]] + 1 || 0
+  nums = nums.sort((a, b) => a - b)
+  if (nums.length == 0 || nums[nums.length - 1] < 0) {
+    return 1
   }
-  for (let i = 0; i < nums.length; i++) {
-    if (!map[i]) {
+  for (let i = 1; i < nums[nums.length - 1]; i++) {
+    if (nums.indexOf(i) == -1) {
       return i
     }
   }
+  return nums[nums.length - 1] + 1
 }
 
 test('firstMissingPositive', () => {
