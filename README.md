@@ -14,7 +14,7 @@
 
 ## Stats
 
-<!-- count -->244<!-- count --> questions solved so far.  
+<!-- count -->245<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -34,6 +34,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [235 Lowest Common Ancestor Of A Binary Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/235-lowest-common-ancestor-of-a-binary-search-tree.js) - *last updated at 2021-01-31*
 * **Leetcode** - [230 Kth Smallest Element In A Bst.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/230-kth-smallest-element-in-a-bst.js) - *last updated at 2021-01-31*
 * **Leetcode** - [211 Design Add And Search Words Data Structure.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/211-design-add-and-search-words-data-structure.js) - *last updated at 2021-01-31*
 * **Leetcode** - [199 Binary Tree Right Side View.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/199-binary-tree-right-side-view.js) - *last updated at 2021-01-31*
