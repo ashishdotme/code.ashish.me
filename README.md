@@ -14,7 +14,7 @@
 
 ## Stats
 
-<!-- count -->251<!-- count --> questions solved so far.  
+<!-- count -->252<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -34,7 +34,8 @@
 ## Index
 
 <!-- index starts -->
-* **Leetcode** - [442 Find All Duplicates In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/442-find-all-duplicates-in-an-array.js) - *last updated at 2021-01-31*
+* **Leetcode** - [016 Three Sum Closest.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/016-three-sum-closest.js) - *last updated at 2021-02-03*
+* **Leetcode** - [442 Find All Duplicates In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/442-find-all-duplicates-in-an-array.js) - *last updated at 2021-02-03*
 * **Leetcode** - [572 Subtree Of Another Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/572-subtree-of-another-tree.js) - *last updated at 2021-01-31*
 * **Leetcode** - [543 Diameter Of Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/543-diameter-of-binary-tree.js) - *last updated at 2021-01-31*
 * **Leetcode** - [1672 Richest Customer Wealth.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1672-richest-customer-wealth.js) - *last updated at 2021-01-31*
