@@ -15,7 +15,6 @@ const findAllDuplicatesInAnArray = nums => {
     }
     nums[index] = -nums[index]
   }
-  console.log(result)
   return result
 }
 
