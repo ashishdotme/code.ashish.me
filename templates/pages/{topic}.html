@@ -5,7 +5,7 @@
 """, {"topic": topic}, database="problems")
 %}
 
-{% block title %}Ashish Patel: Notes on {{ topic }}{% endblock %}<!DOCTYPE html>
+{% block title %}code.ashish.me on {{ topic }}{% endblock %}<!DOCTYPE html>
 
 {% block body %}
 
@@ -15,7 +15,7 @@
 
 <section class="hero is-light">
   <div class="hero-body">
-    <a class="title" href="/">Ashish Patel: Notes on {{ topic }}</a>
+    <a class="title" href="/">code.ashish.me on {{ topic }}</a>
     <p class="subtitle mt-1">
       <a style="text-decoration: none" href="/problems/feed.atom" title="Atom feed"
         ><svg xmlns="http://www.w3.org/2000/svg" width="14px" height="14px" viewBox="0 0 256 256">
@@ -64,7 +64,7 @@
 <section class="content body mt-2 mb-5">
   <ul>
   {% for problem in problems %}
-      <li><a href="/{{ problem.topic }}/{{ problem.slug }}">{{ problem.title }}</a> - {{ problem.created[:10] }}</li>
+      <li><a href="/{{ problem.topic }}/{{ problem.slug }}">{{ problem.slug.replace("-", " ").title() }}</a> - {{ problem.created[:10] }}</li>
   {% endfor %}
   </ul>
 </section>

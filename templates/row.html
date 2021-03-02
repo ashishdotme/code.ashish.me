@@ -1,18 +1,18 @@
 {% extends "note_base.html" %}
 
-{% block title %}{% set problem = display_rows[0] %}{{ problem.title }} | Ashish Patel's Notes{% endblock %}
+{% block title %}{% set problem = display_rows[0] %}{{ problem.slug.replace("-", " ").title() }} | Ashish Patel's Notes{% endblock %}
 
 {% block extra_head %}{% set problem = display_rows[0] %}
 <link rel="stylesheet" href="/static/github-light.css">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@ashishdotme">
-<meta name="twitter:title" content="{{ problem.title }}">
+<meta name="twitter:title" content="{{ problem.slug }}">
 <meta name="twitter:description" content="{{ problem.body }}">
 <meta name="twitter:image" content="https://code.ashish.me/-/media/screenshot/{{ problem.path }}">
 <meta name="twitter:image:alt" content="Screenshot of this article">
 <meta property="og:url" content="https://code.ashish.me/problems/{{ problem.path }}">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{{ problem.title }}">
+<meta property="og:title" content="{{ problem.slug }}">
 <meta property="og:description" content="{{ problem.body }}">
 <meta property="og:image" content="https://code.ashish.me/-/media/screenshot/{{ problem.path }}">
 <meta property="og:image:alt" content="Screenshot of this article">
@@ -21,7 +21,7 @@
 {% endblock %}
 
 {% block body %}{% set problem = display_rows[0] %}
-<h1>{{ problem.title }}</h1>
+<h1>{{ problem.slug.replace("-", " ").title() }}</h1>
 
 {{ problem.html|safe }}
 

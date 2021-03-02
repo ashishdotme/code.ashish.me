@@ -39,7 +39,7 @@ def build_database(repo_path):
     table = db.table("problems", pk="path")
     for filepath in root.glob("*/**/*.js"):
         fp = filepath.open()
-        body = fp.read().strip()
+        body = "```js  \n" + fp.read().strip() + "\n```"
         path = str(filepath.relative_to(root))
         url = "https://github.com/ashishdotme/code.ashish.me/blob/master/{}".format(
             path)
@@ -65,10 +65,12 @@ def build_database(repo_path):
             retries = 0
             response = None
             while retries < 3:
-                headers = {}
+                headers = {
+                  "authorization": "Bearer cabfd3cb6cca6188c0fc4efda0b83ed6b066265e"
+                }
                 if os.environ.get("GITHUB_TOKEN"):
                     headers = {
-                        "authorization": "Bearer {}".format(os.environ["GITHUB_TOKEN"])
+                        "authorization": "Bearer cabfd3cb6cca6188c0fc4efda0b83ed6b066265e"
                     }
                 response = httpx.post(
                     "https://api.github.com/markdown",

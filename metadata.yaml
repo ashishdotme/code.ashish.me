@@ -28,7 +28,7 @@ databases:
         sql: |-
           SELECT
             'tag:code.ashish.me,2020-04-30:' || path as atom_id,
-            title as atom_title,
+            slug as atom_title,
             'https://code.ashish.me/' || topic || '/' || slug as atom_link,
             created_utc as atom_updated,
             html as atom_content_html,

@@ -1,4 +1,4 @@
-{% extends "note_base.html" %} {% block title %}Ashish Patel: Notes{% endblock %}<!DOCTYPE html>
+{% extends "note_base.html" %} {% block title %}code.ashish.me{% endblock %}<!DOCTYPE html>
 
 {% block extra_head %}
 <link href="https://github.com/ashishdotme" rel="me" />
@@ -10,7 +10,7 @@
 
 <section class="hero is-light">
   <div class="hero-body">
-    <a class="title" href="/">Ashish Patel: Notes</a>
+    <a class="title" href="/">code.ashish.me</a>
     <p class="subtitle mt-1">
       <a style="text-decoration: none" href="/problems/feed.atom" title="Atom feed"
         ><svg xmlns="http://www.w3.org/2000/svg" width="14px" height="14px" viewBox="0 0 256 256">
@@ -64,7 +64,7 @@ database="problems") %}
   {% for problem in sql("select * from problems where topic = :topic order by created_utc desc", {"topic":
   row.topic}, database="problems") %}
   <li>
-    <a href="/{{ problem.topic }}/{{ problem.slug }}">{{ problem.title }}</a> - {{ problem.created[:10] }}
+    <a href="/{{ problem.topic }}/{{ problem.slug }}">{{ problem.slug.replace("-", " ").title() }}</a> - {{ problem.created[:10] }}
   </li>
   {% endfor %}
 </ul>
