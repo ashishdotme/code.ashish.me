@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">🎓 coding exercises from leetcode, hackerrank, codesignal etc.</p>
+<div style='margin:0 auto;width:80%;'>
+  <img src="./.github/assets/website-screen.png" alt="screenshot"/>
+</div>
+<p align="center"><a href="https://code.ashish.me">https://code.ashish.me</a></p>  
 
 ## Stats
 
