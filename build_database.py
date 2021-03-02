@@ -39,12 +39,12 @@ def build_database(repo_path):
     table = db.table("problems", pk="path")
     for filepath in root.glob("*/**/*.js"):
         fp = filepath.open()
-        title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
         path = str(filepath.relative_to(root))
         url = "https://github.com/ashishdotme/code.ashish.me/blob/master/{}".format(
             path)
         slug = filepath.stem
+        title = filepath.stem
         path_slug = path.replace("/", "_")
         try:
             row = table.get(path_slug)
