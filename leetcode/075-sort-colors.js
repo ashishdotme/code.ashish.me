@@ -21,7 +21,6 @@ const sortColors = colors => {
       current++
     }
   }
-  console.log(colors)
   return colors
 }
 

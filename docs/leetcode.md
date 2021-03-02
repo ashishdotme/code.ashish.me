@@ -65,6 +65,7 @@
 - [258. Add digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/258-add-digits.js)
 - [268. Missing numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/268-missing-numbers.js)
 - [283. Move zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/283-move-zeros.js)
+- [287. Find the duplicate number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/287-find-the-duplicate-number.js)
 - [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js)
 - [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js)
 - [345. Reverse vowels of a string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/345-reverse-vowels-of-a-string.js)
