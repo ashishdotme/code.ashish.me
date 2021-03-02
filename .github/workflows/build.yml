@@ -42,5 +42,29 @@ jobs:
           git diff
           git config --global user.email "ashishsushilpatel@gmail.com"
           git config --global user.name "Ashish Patel"
-          git diff --quiet || (git add README.md && git commit -m "chore: update README")
+          git diff --quiet || (git add . && git commit -m "chore: update README")
           git push
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Deploy Datasette using Vercel
+        env:
+          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+        run: |-
+          datasette publish vercel problems.db \
+            --token $NOW_TOKEN \
+            --branch master \
+            --project ashish-code \
+            --metadata metadata.yaml \
+            --static static:static \
+            --install datasette-template-sql \
+            --install "datasette-atom>=0.7" \
+            --install datasette-json-html \
+            --install beautifulsoup4 \
+            --install datasette-debug-asgi \
+            --install "datasette-graphql>=0.12" \
+            --install datasette-media \
+            --plugins-dir plugins \
+            --template-dir templates \
+            --public
