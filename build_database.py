@@ -94,8 +94,6 @@ def build_database(repo_path):
         record.update(all_times[path])
         with db.conn:
             table.upsert(record, alter=True)
-        record.update(all_times[path])
-        table.insert(record)
     if "problems_fts" not in db.table_names():
         table.enable_fts(["title", "body"])
 
