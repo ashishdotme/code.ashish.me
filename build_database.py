@@ -37,7 +37,7 @@ def build_database(repo_path):
     all_times = created_changed_times(repo_path)
     db = sqlite_utils.Database(repo_path / "problems.db")
     table = db.table("problems", pk="path")
-    for filepath in root.glob("*/**/*.js"):
+    for filepath in root.glob("*/!(node_modules)/**/*.js"):
         fp = filepath.open()
         body = "```js  \n" + fp.read().strip() + "\n```"
         path = str(filepath.relative_to(root))
@@ -64,13 +64,10 @@ def build_database(repo_path):
         if (body != previous_body) or not previous_html:
             retries = 0
             response = None
-            while retries < 3:
-                headers = {
-                  "authorization": "Bearer cabfd3cb6cca6188c0fc4efda0b83ed6b066265e"
-                }
+            while retries < 1:
                 if os.environ.get("GITHUB_TOKEN"):
                     headers = {
-                        "authorization": "Bearer cabfd3cb6cca6188c0fc4efda0b83ed6b066265e"
+                        "authorization": "Bearer {}".format(os.environ["GITHUB_TOKEN"])
                     }
                 response = httpx.post(
                     "https://api.github.com/markdown",
@@ -89,10 +86,6 @@ def build_database(repo_path):
                     print("  sleeping 60s")
                     time.sleep(60)
                     retries += 1
-            else:
-                assert False, "Could not render {} - last response was {}".format(
-                    path, response.headers
-                )
         record.update(all_times[path])
         with db.conn:
             table.upsert(record, alter=True)
