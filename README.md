@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->254<!-- count --> questions solved so far.  
+<!-- count -->255<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [322 Coin Change.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/322-coin-change.js) - *last updated at 2021-03-16*
 * **Leetcode** - [287 Find The Duplicate Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/287-find-the-duplicate-number.js) - *last updated at 2021-03-02*
 * **Leetcode** - [075 Sort Colors.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/075-sort-colors.js) - *last updated at 2021-03-02*
 * **Leetcode** - [016 Three Sum Closest.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/016-three-sum-closest.js) - *last updated at 2021-02-03*
