@@ -66,9 +66,7 @@ def build_database(repo_path):
                 retries = 0
                 response = None
                 while retries < 1:
-                    headers = {
-                      "authorization": "Bearer 21c9a74956c38d555ad8efca7e21d314398c0a35"
-                    }
+                    headers = {}
                     if os.environ.get("GITHUB_TOKEN"):
                         headers = {
                             "authorization": "Bearer {}".format(os.environ["GITHUB_TOKEN"])
