@@ -92,12 +92,12 @@ def build_database(repo_path):
         fp = filepath.open()
         if not ("node_modules" or "docs") in fp.name:
             body = "```java  \n" + fp.read().strip() + "\n```"
-        insert_records(body, filepath, table, all_times, db)
+            insert_records(body, filepath, table, all_times, db)
     for filepath in root.glob("*/**/*.js"):
         fp = filepath.open()
         if not ("node_modules" or "docs") in fp.name:
             body = "```js  \n" + fp.read().strip() + "\n```"
-        insert_records(body, filepath, table, all_times, db)
+            insert_records(body, filepath, table, all_times, db)
     table.enable_fts(
         ["title", "body"], tokenize="porter", create_triggers=True, replace=True
     )
