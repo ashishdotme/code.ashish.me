@@ -54,7 +54,6 @@ jobs:
         run: |-
           datasette publish vercel problems.db \
             --token $NOW_TOKEN \
-            --branch master \
             --project ashish-code \
             --metadata metadata.yaml \
             --static static:static \
