@@ -1,3 +1,11 @@
+/**
+ *
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
+
 console.time('func1')
 let func1 = (n, m) => {
   if (n === 0 || m === 0) return 0
@@ -17,12 +25,3 @@ let func2 = (n, m, dp = {}) => {
   return dp[key]
 }
 console.log(func2(10, 10))
-console.timeEnd('func2')
-
-// console.time('func2')
-// let func1 = n => {
-//   if (n <= 2) return 1
-//   return func1(n - 1) + func1(n - 2)
-// }
-// console.log(func1(45))
-// console.timeEnd('func2')

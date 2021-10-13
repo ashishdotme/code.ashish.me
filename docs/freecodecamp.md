@@ -8,6 +8,7 @@
 - [Grid traveler](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/02-grid-traveler.js)
 - [Diff two arrays](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/02-diff-two-arrays.js)
 - [Palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/03-palindrome.js)
+- [Can sum](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/03-can-sum.js)
 - [Seek and destroy](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/03-seek-and-destroy.js)
 - [Largest number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/04-largest-number.js)
 - [Confirm ending](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/05-confirm-ending.js)
