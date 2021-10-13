@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->257<!-- count --> questions solved so far.  
+<!-- count -->260<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,9 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Simplerecursion.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SimpleRecursion.java) - *last updated at 2021-10-13*
+* **Freecodecamp** - [01 Fibonacci.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/01-fibonacci.js) - *last updated at 2021-10-13*
+* **Freecodecamp** - [02 Grid Traveler.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/02-grid-traveler.js) - *last updated at 2021-10-13*
 * **Geeksforgeeks** - [Test.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/Test.java) - *last updated at 2021-10-12*
 * **Geeksforgeeks** - [01 Analysis Of Algorithm.js](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/introduction/01-analysis-of-algorithm.js) - *last updated at 2021-03-17*
 * **Leetcode** - [322 Coin Change.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/322-coin-change.js) - *last updated at 2021-03-16*
