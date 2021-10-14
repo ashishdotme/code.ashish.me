@@ -13,6 +13,7 @@
 - [Largest number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/04-largest-number.js)
 - [How sum](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/04-how-sum.js)
 - [Confirm ending](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/05-confirm-ending.js)
+- [Best sum](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/05-best-sum.js)
 - [Repeat string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/06-repeat-string.js)
 - [Truncate string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/07-truncate-string.js)
 - [Chunky monkey](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/08-chunky-monkey.js)
