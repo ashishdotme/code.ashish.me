@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->261<!-- count --> questions solved so far.  
+<!-- count -->262<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Freecodecamp** - [05 Best Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/05-best-sum.js) - *last updated at 2021-10-14*
 * **Freecodecamp** - [04 How Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/04-how-sum.js) - *last updated at 2021-10-14*
 * **Freecodecamp** - [03 Can Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/03-can-sum.js) - *last updated at 2021-10-14*
 * **Geeksforgeeks** - [Simplerecursion.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SimpleRecursion.java) - *last updated at 2021-10-13*
