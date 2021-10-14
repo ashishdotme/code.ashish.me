@@ -11,6 +11,7 @@
 - [Can sum](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/03-can-sum.js)
 - [Seek and destroy](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/intermediate/03-seek-and-destroy.js)
 - [Largest number](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/04-largest-number.js)
+- [How sum](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/04-how-sum.js)
 - [Confirm ending](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/05-confirm-ending.js)
 - [Repeat string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/06-repeat-string.js)
 - [Truncate string](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/basic/07-truncate-string.js)
