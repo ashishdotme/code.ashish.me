@@ -6,7 +6,7 @@ py-gfm
 datasette-render-markdown
 datasette-publish-vercel>=0.10
 datasette-template-sql>=1.0.2
-datasette>=0.57
+datasette==0.58.1
 datasette-atom>=0.7
 beautifulsoup4
 datasette-graphql
