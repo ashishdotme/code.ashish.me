@@ -48,22 +48,22 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - name: Deploy Datasette using Vercel
-        env:
-          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
-        run: |-
-          datasette publish vercel problems.db \
-            --token $NOW_TOKEN \
-            --project ashish-code \
-            --metadata metadata.yaml \
-            --static static:static \
-            --install datasette-template-sql \
-            --install "datasette-atom>=0.7" \
-            --install datasette-json-html \
-            --install beautifulsoup4 \
-            --install datasette-debug-asgi \
-            --install "datasette-graphql>=0.12" \
-            --install datasette-media \
-            --plugins-dir plugins \
-            --template-dir templates \
-            --public
+      # - name: Deploy Datasette using Vercel
+      #   env:
+      #     NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+      #   run: |-
+      #     datasette publish vercel problems.db \
+      #       --token $NOW_TOKEN \
+      #       --project ashish-code \
+      #       --metadata metadata.yaml \
+      #       --static static:static \
+      #       --install datasette-template-sql \
+      #       --install "datasette-atom>=0.7" \
+      #       --install datasette-json-html \
+      #       --install beautifulsoup4 \
+      #       --install datasette-debug-asgi \
+      #       --install "datasette-graphql>=0.12" \
+      #       --install datasette-media \
+      #       --plugins-dir plugins \
+      #       --template-dir templates \
+      #       --public
