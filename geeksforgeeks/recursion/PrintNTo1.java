@@ -1,3 +1,11 @@
+/**
+ * 
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
+
 public class PrintNTo1 {
   
   static void func(int n){

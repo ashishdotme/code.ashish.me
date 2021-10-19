@@ -1,3 +1,11 @@
+/**
+ * 
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
+
 public class PalindromeCheck {
 
   static boolean func(String str, int start, int end) {

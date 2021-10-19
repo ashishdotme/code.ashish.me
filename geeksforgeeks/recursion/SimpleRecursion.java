@@ -1,3 +1,11 @@
+/**
+ * 
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
+
 class SimpleRecursion {
   static void fun(int n) {
     if (n == 0) {
