@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->267<!-- count --> questions solved so far.  
+<!-- count -->268<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Sumofdigits.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SumOfDigits.java) - *last updated at 2021-10-19*
 * **Geeksforgeeks** - [Naturalnumberssum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/NaturalNumbersSum.java) - *last updated at 2021-10-19*
 * **Geeksforgeeks** - [Palindromecheck.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/PalindromeCheck.java) - *last updated at 2021-10-19*
 * **Geeksforgeeks** - [Nthfibonacci.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/NthFibonacci.java) - *last updated at 2021-10-19*
@@ -46,7 +47,7 @@
 * **Freecodecamp** - [05 Best Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/05-best-sum.js) - *last updated at 2021-10-15*
 * **Freecodecamp** - [04 How Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/04-how-sum.js) - *last updated at 2021-10-14*
 * **Freecodecamp** - [03 Can Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/03-can-sum.js) - *last updated at 2021-10-14*
-* **Geeksforgeeks** - [Simplerecursion.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SimpleRecursion.java) - *last updated at 2021-10-13*
+* **Geeksforgeeks** - [Simplerecursion.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SimpleRecursion.java) - *last updated at 2021-10-19*
 * **Freecodecamp** - [01 Fibonacci.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/01-fibonacci.js) - *last updated at 2021-10-13*
 * **Freecodecamp** - [02 Grid Traveler.js](https://github.com/ashishdotme/code.ashish.me/blob/master/freecodecamp/dynamic-programming/02-grid-traveler.js) - *last updated at 2021-10-14*
 * **Geeksforgeeks** - [01 Analysis Of Algorithm.js](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/introduction/01-analysis-of-algorithm.js) - *last updated at 2021-03-17*
