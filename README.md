@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->268<!-- count --> questions solved so far.  
+<!-- count -->270<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,7 +38,9 @@
 ## Index
 
 <!-- index starts -->
-* **Geeksforgeeks** - [Sumofdigits.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SumOfDigits.java) - *last updated at 2021-10-19*
+* **Geeksforgeeks** - [Generatesubsets.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/GenerateSubsets.java) - *last updated at 2021-10-21*
+* **Geeksforgeeks** - [Ropecutting.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/RopeCutting.java) - *last updated at 2021-10-21*
+* **Geeksforgeeks** - [Sumofdigits.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SumOfDigits.java) - *last updated at 2021-10-21*
 * **Geeksforgeeks** - [Naturalnumberssum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/NaturalNumbersSum.java) - *last updated at 2021-10-19*
 * **Geeksforgeeks** - [Palindromecheck.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/PalindromeCheck.java) - *last updated at 2021-10-19*
 * **Geeksforgeeks** - [Nthfibonacci.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/NthFibonacci.java) - *last updated at 2021-10-19*
