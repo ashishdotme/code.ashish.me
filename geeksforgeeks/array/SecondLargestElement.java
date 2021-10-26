@@ -1,3 +1,11 @@
+/**
+ *
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
+
 public class SecondLargestElement {
   
   static int func(int[] nums){

@@ -1,4 +1,11 @@
-import java.util.ArrayList;
+
+/**
+ *
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
 
 class LargestElement {
 

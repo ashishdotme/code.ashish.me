@@ -1,3 +1,12 @@
+
+/**
+ *
+ * Ashish Patel
+ * e: ashishsushilPatel@gmail.com
+ * w: https://ashish.me
+ *
+ */
+
 public class TowerOfHanoi {
   static void func(int n, String a, String b, String c) {
     if (n == 1) {
