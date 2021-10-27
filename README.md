@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->274<!-- count --> questions solved so far.  
+<!-- count -->278<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,10 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Reversearray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/ReverseArray.java) - *last updated at 2021-10-27*
+* **Geeksforgeeks** - [Movezerostoend.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MoveZerosToEnd.java) - *last updated at 2021-10-27*
+* **Geeksforgeeks** - [Duplicatesinsortedarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/DuplicatesInSortedArray.java) - *last updated at 2021-10-27*
+* **Geeksforgeeks** - [Duplicatesinarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/DuplicatesInArray.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Isarraysorted.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/IsArraySorted.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Secondlargestelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/SecondLargestElement.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Towerofhanoi.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/TowerOfHanoi.java) - *last updated at 2021-10-26*
