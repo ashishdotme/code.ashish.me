@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->279<!-- count --> questions solved so far.  
+<!-- count -->280<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Leftrotateanarraybydplaces.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeftRotateAnArrayByDPlaces.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Leftrotateanarraybyone.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeftRotateAnArrayByOne.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Reversearray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/ReverseArray.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Movezerostoend.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MoveZerosToEnd.java) - *last updated at 2021-10-27*
