@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->273<!-- count --> questions solved so far.  
+<!-- count -->274<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,11 +38,12 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Isarraysorted.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/IsArraySorted.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Secondlargestelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/SecondLargestElement.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Towerofhanoi.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/TowerOfHanoi.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Largestelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LargestElement.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Generatesubsets.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/GenerateSubsets.java) - *last updated at 2021-10-26*
-* **Geeksforgeeks** - [Ropecutting.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/RopeCutting.java) - *last updated at 2021-10-21*
+* **Geeksforgeeks** - [Ropecutting.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/RopeCutting.java) - *last updated at 2021-10-26*
 * **Geeksforgeeks** - [Sumofdigits.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/SumOfDigits.java) - *last updated at 2021-10-21*
 * **Geeksforgeeks** - [Naturalnumberssum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/NaturalNumbersSum.java) - *last updated at 2021-10-19*
 * **Geeksforgeeks** - [Palindromecheck.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/recursion/PalindromeCheck.java) - *last updated at 2021-10-19*
