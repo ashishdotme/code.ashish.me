@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->284<!-- count --> questions solved so far.  
+<!-- count -->285<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Trappingrainwater.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/TrappingRainWater.java) - *last updated at 2021-10-28*
 * **Geeksforgeeks** - [Stockbuyandsell.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/StockBuyAndSell.java) - *last updated at 2021-10-28*
 * **Geeksforgeeks** - [Leaderinarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeaderInArray.java) - *last updated at 2021-10-28*
 * **Geeksforgeeks** - [Maximumdifference.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumDifference.java) - *last updated at 2021-10-28*
