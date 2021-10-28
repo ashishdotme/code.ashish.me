@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->280<!-- count --> questions solved so far.  
+<!-- count -->283<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,9 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Leaderinarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeaderInArray.java) - *last updated at 2021-10-28*
+* **Geeksforgeeks** - [Maximumdifference.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumDifference.java) - *last updated at 2021-10-28*
+* **Geeksforgeeks** - [Frequenciesinsortedarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/FrequenciesInSortedArray.java) - *last updated at 2021-10-28*
 * **Geeksforgeeks** - [Leftrotateanarraybydplaces.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeftRotateAnArrayByDPlaces.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Leftrotateanarraybyone.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeftRotateAnArrayByOne.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Reversearray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/ReverseArray.java) - *last updated at 2021-10-27*
