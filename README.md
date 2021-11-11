@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->286<!-- count --> questions solved so far.  
+<!-- count -->287<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Maximumsumsubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumSumSubarray.java) - *last updated at 2021-11-11*
 * **Geeksforgeeks** - [Maximumconsecutive1inbinaryarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumConsecutive1InBinaryArray.java) - *last updated at 2021-11-11*
 * **Geeksforgeeks** - [Trappingrainwater.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/TrappingRainWater.java) - *last updated at 2021-10-29*
 * **Geeksforgeeks** - [Stockbuyandsell.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/StockBuyAndSell.java) - *last updated at 2021-10-28*
