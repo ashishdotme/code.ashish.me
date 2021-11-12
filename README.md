@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->289<!-- count --> questions solved so far.  
+<!-- count -->290<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Majority.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/Majority.java) - *last updated at 2021-11-12*
 * **Geeksforgeeks** - [Maximumcircularsumsubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumCircularSumSubarray.java) - *last updated at 2021-11-12*
 * **Geeksforgeeks** - [Longestoddevensubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LongestOddEvenSubarray.java) - *last updated at 2021-11-11*
 * **Geeksforgeeks** - [Maximumsumsubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumSumSubarray.java) - *last updated at 2021-11-11*
