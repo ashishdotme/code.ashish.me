@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->292<!-- count --> questions solved so far.  
+<!-- count -->293<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Findsubarraywithgivensum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/FindSubarrayWithGivenSum.java) - *last updated at 2021-12-04*
 * **Geeksforgeeks** - [Maximumsumofkconsecutive.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumSumOfKConsecutive.java) - *last updated at 2021-11-14*
 * **Geeksforgeeks** - [Minimumconsecutiveflips.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MinimumConsecutiveFlips.java) - *last updated at 2021-11-13*
 * **Geeksforgeeks** - [Majority.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/Majority.java) - *last updated at 2021-11-12*
