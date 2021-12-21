@@ -33,7 +33,7 @@ class MaximumCircularSumSubarray {
 
   public static void main(String[] args){
     int[] nums = {5, -2 , 3, 4};
-    int result = func(nums);
+    int result = maxCircularSumArray(nums);
     System.out.println(result);
   }
 }
