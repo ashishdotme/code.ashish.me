@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->296<!-- count --> questions solved so far.  
+<!-- count -->297<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Indexoffirstoccurrenceinsorted.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/IndexOfFirstOccurrenceInSorted.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Binarysearchrecursive.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/BinarySearchRecursive.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Binarysearchiterative.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/BinarySearchIterative.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Nbonaccinumber.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/NBonacciNumber.java) - *last updated at 2021-12-21*
