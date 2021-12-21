@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->293<!-- count --> questions solved so far.  
+<!-- count -->296<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,18 +38,21 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Binarysearchrecursive.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/BinarySearchRecursive.java) - *last updated at 2021-12-21*
+* **Geeksforgeeks** - [Binarysearchiterative.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/BinarySearchIterative.java) - *last updated at 2021-12-21*
+* **Geeksforgeeks** - [Nbonaccinumber.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/NBonacciNumber.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Findsubarraywithgivensum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/FindSubarrayWithGivenSum.java) - *last updated at 2021-12-04*
 * **Geeksforgeeks** - [Maximumsumofkconsecutive.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumSumOfKConsecutive.java) - *last updated at 2021-11-14*
 * **Geeksforgeeks** - [Minimumconsecutiveflips.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MinimumConsecutiveFlips.java) - *last updated at 2021-11-13*
 * **Geeksforgeeks** - [Majority.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/Majority.java) - *last updated at 2021-11-12*
-* **Geeksforgeeks** - [Maximumcircularsumsubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumCircularSumSubarray.java) - *last updated at 2021-11-12*
+* **Geeksforgeeks** - [Maximumcircularsumsubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumCircularSumSubarray.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Longestoddevensubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LongestOddEvenSubarray.java) - *last updated at 2021-11-11*
 * **Geeksforgeeks** - [Maximumsumsubarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumSumSubarray.java) - *last updated at 2021-11-11*
 * **Geeksforgeeks** - [Maximumconsecutive1inbinaryarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumConsecutive1InBinaryArray.java) - *last updated at 2021-11-11*
-* **Geeksforgeeks** - [Trappingrainwater.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/TrappingRainWater.java) - *last updated at 2021-10-29*
+* **Geeksforgeeks** - [Trappingrainwater.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/TrappingRainWater.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Stockbuyandsell.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/StockBuyAndSell.java) - *last updated at 2021-10-28*
 * **Geeksforgeeks** - [Leaderinarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeaderInArray.java) - *last updated at 2021-10-28*
-* **Geeksforgeeks** - [Maximumdifference.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumDifference.java) - *last updated at 2021-10-28*
+* **Geeksforgeeks** - [Maximumdifference.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/MaximumDifference.java) - *last updated at 2021-12-21*
 * **Geeksforgeeks** - [Frequenciesinsortedarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/FrequenciesInSortedArray.java) - *last updated at 2021-10-28*
 * **Geeksforgeeks** - [Leftrotateanarraybydplaces.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeftRotateAnArrayByDPlaces.java) - *last updated at 2021-10-27*
 * **Geeksforgeeks** - [Leftrotateanarraybyone.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/array/LeftRotateAnArrayByOne.java) - *last updated at 2021-10-27*
