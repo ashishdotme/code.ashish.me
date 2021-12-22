@@ -25,12 +25,12 @@ class IndexOfLastOccurrance {
         }
       }
     }
-    return nums[0];
+    return -1;
   }
 
   public static void main(String[] args){
-    int[] nums = new int[] { 1, 4, 8, 23, 67, 123, 123, 123, 3466, 5687 };
-    int result = func(nums, 123);
+    int[] nums = new int[] { 1, 4, 8, 34, 34, 34, 123, 123, 3466, 5687 };
+    int result = func(nums, 34);
     System.out.println(result);
   }
 }
