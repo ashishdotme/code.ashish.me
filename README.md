@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->302<!-- count --> questions solved so far.  
+<!-- count -->304<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,8 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Searchinsortedrotatedarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/SearchInSortedRotatedArray.java) - *last updated at 2021-12-23*
+* **Geeksforgeeks** - [Findapeakelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/FindAPeakElement.java) - *last updated at 2021-12-23*
 * **Geeksforgeeks** - [Searchininfinitearray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/SearchInInfiniteArray.java) - *last updated at 2021-12-22*
 * **Geeksforgeeks** - [Countonesinsortedbinaryarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/CountOnesInSortedBinaryArray.java) - *last updated at 2021-12-22*
 * **Geeksforgeeks** - [Squareroot.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/SquareRoot.java) - *last updated at 2021-12-22*
