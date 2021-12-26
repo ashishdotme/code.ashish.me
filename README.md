@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->305<!-- count --> questions solved so far.  
+<!-- count -->307<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,8 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Matrixinsnakepattern.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/matrix/MatrixInSnakePattern.java) - *last updated at 2021-12-26*
+* **Geeksforgeeks** - [Repeatingelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/RepeatingElement.java) - *last updated at 2021-12-26*
 * **Geeksforgeeks** - [Twopointer.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/TwoPointer.java) - *last updated at 2021-12-23*
 * **Geeksforgeeks** - [Searchinsortedrotatedarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/SearchInSortedRotatedArray.java) - *last updated at 2021-12-23*
 * **Geeksforgeeks** - [Findapeakelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/FindAPeakElement.java) - *last updated at 2021-12-23*
