@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->308<!-- count --> questions solved so far.  
+<!-- count -->310<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,8 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Rotatematrixanticlockwise.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/matrix/RotateMatrixAntiClockwise.java) - *last updated at 2021-12-26*
+* **Geeksforgeeks** - [Transposeofmatrix.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/matrix/TransposeOfMatrix.java) - *last updated at 2021-12-26*
 * **Geeksforgeeks** - [Matrixboundarytraversal.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/matrix/MatrixBoundaryTraversal.java) - *last updated at 2021-12-26*
 * **Geeksforgeeks** - [Matrixinsnakepattern.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/matrix/MatrixInSnakePattern.java) - *last updated at 2021-12-26*
 * **Geeksforgeeks** - [Repeatingelement.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/searching/RepeatingElement.java) - *last updated at 2021-12-26*
