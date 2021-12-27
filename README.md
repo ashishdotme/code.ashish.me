@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->318<!-- count --> questions solved so far.  
+<!-- count -->319<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Longestconsecutivesequence.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/LongestConsecutiveSequence.java) - *last updated at 2021-12-27*
 * **Geeksforgeeks** - [Longestsubarraywithequalzeroesandones.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/LongestSubarrayWithEqualZeroesAndOnes.java) - *last updated at 2021-12-27*
 * **Geeksforgeeks** - [Longestsubarraywithgivensum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/LongestSubarrayWithGivenSum.java) - *last updated at 2021-12-27*
 * **Geeksforgeeks** - [Subarraywithgivensum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/SubarrayWithGivenSum.java) - *last updated at 2021-12-26*
