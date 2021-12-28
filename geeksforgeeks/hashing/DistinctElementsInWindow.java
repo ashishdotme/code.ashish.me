@@ -34,7 +34,7 @@ class DistinctElementsInWindow {
       } else {
         hm.put(nums[i], 0);
       }
-      System.out.println("DistinctElements - " + hm.size());
+      System.out.println("Distinct Elements - " + hm.size());
     }
   }
 
