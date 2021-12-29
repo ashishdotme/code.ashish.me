@@ -6,14 +6,14 @@
  *
  */
 
-class TraversingLinkedList {
+class TraversingLinkedListRecursively {
 
   static void printlist(Node root) {
-    Node current = root;
-    while (current != null) {
-      System.out.println(current.data);
-      current = current.next;
+    if(root == null){
+      return;
     }
+    System.out.println(root.data);
+    printlist(root.next);
   }
 
   public static void main(String[] args) {

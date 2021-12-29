@@ -12,12 +12,10 @@ class DistinctElementsInWindow {
 
   static void printDistinct(int nums[], int k) {
     HashMap<Integer, Integer> hm = new HashMap<>();
-    int result = 0;
     for(int i = 0; i < k ; i++){
       if(hm.containsKey(nums[i])){
         hm.put(nums[i], hm.get(nums[i]) + 1);
       } else {
-        result++;
         hm.put(nums[i], 1);
       }
     }
