@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->323<!-- count --> questions solved so far.  
+<!-- count -->324<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Leftmostrepeatingcharacter.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/LeftmostRepeatingCharacter.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Checkforanagram.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/CheckForAnagram.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Subsequenceofstringrecursive.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/SubsequenceOfStringRecursive.java) - *last updated at 2021-12-28*
 * **Geeksforgeeks** - [Subsequenceofstring.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/SubsequenceOfString.java) - *last updated at 2021-12-28*
