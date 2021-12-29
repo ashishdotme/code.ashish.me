@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->329<!-- count --> questions solved so far.  
+<!-- count -->330<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Deletefirstnode.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/DeleteFirstNode.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Insertatend.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/InsertAtEnd.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Insertatbegin.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/InsertAtBegin.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Traversinglinkedlistrecursively.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/TraversingLinkedListRecursively.java) - *last updated at 2021-12-29*
