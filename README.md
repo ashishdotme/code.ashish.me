@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->325<!-- count --> questions solved so far.  
+<!-- count -->327<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,12 +38,14 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Traversinglinkedlistrecursively.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/TraversingLinkedListRecursively.java) - *last updated at 2021-12-29*
+* **Geeksforgeeks** - [Node.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/Node.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Traversinglinkedlist.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/TraversingLinkedList.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Leftmostrepeatingcharacter.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/LeftmostRepeatingCharacter.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Checkforanagram.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/CheckForAnagram.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Subsequenceofstringrecursive.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/SubsequenceOfStringRecursive.java) - *last updated at 2021-12-28*
 * **Geeksforgeeks** - [Subsequenceofstring.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/string/SubsequenceOfString.java) - *last updated at 2021-12-28*
-* **Geeksforgeeks** - [Distinctelementsinwindow.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/DistinctElementsInWindow.java) - *last updated at 2021-12-28*
+* **Geeksforgeeks** - [Distinctelementsinwindow.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/DistinctElementsInWindow.java) - *last updated at 2021-12-29*
 * **Geeksforgeeks** - [Longestconsecutivesequence.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/LongestConsecutiveSequence.java) - *last updated at 2021-12-27*
 * **Geeksforgeeks** - [Longestsubarraywithequalzeroesandones.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/LongestSubarrayWithEqualZeroesAndOnes.java) - *last updated at 2021-12-27*
 * **Geeksforgeeks** - [Longestsubarraywithgivensum.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/hashing/LongestSubarrayWithGivenSum.java) - *last updated at 2021-12-27*
