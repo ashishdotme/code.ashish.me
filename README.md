@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->337<!-- count --> questions solved so far.  
+<!-- count -->338<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Geeksforgeeks** - [Deleteheadofdoublylist.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/DeleteHeadOfDoublyList.java) - *last updated at 2021-12-30*
 * **Geeksforgeeks** - [Reversedoublylist.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/ReverseDoublyList.java) - *last updated at 2021-12-30*
 * **Geeksforgeeks** - [Insertatendofdoublylist.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/InsertAtEndOfDoublyList.java) - *last updated at 2021-12-30*
 * **Geeksforgeeks** - [Insertatbeginingdoublelinkedlist.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/InsertAtBeginingDoubleLinkedlist.java) - *last updated at 2021-12-30*
