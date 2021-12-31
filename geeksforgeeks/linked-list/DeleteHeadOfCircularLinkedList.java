@@ -12,6 +12,9 @@ class DeleteHeadOfCircularLinkedList {
     if(head == null){
       return null;
     }
+    if(head.next == null){
+      return null;
+    }
     Node current = head;
     while(current.next != head){
       current = current.next;
