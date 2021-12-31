@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->346<!-- count --> questions solved so far.  
+<!-- count -->351<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,11 @@
 ## Index
 
 <!-- index starts -->
+* **Algoexpert** - [01 Validate Subsequence.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/01-validate-subsequence.js) - *last updated at 2021-12-31*
+* **Cses** - [Increasingarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/IncreasingArray.java) - *last updated at 2021-12-31*
+* **Algoexpert** - [09 Depth First Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/09-depth-first-search.js) - *last updated at 2021-12-31*
+* **Algoexpert** - [02 Two Number Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/02-two-number-sum.js) - *last updated at 2021-12-31*
+* **Algoexpert** - [06 Find Closest Value In Binary Search Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/06-find-closest-value-in-binary-search-tree.js) - *last updated at 2021-12-31*
 * **Cses** - [Repeatitions.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/Repeatitions.java) - *last updated at 2021-12-31*
 * **Cses** - [Weirdalgorithm.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/WeirdAlgorithm.java) - *last updated at 2021-12-31*
 * **Cses** - [Missingnumber.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/MissingNumber.java) - *last updated at 2021-12-31*
