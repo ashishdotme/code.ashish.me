@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->345<!-- count --> questions solved so far.  
+<!-- count -->346<!-- count --> questions solved so far.  
 
 
 ## Sources
@@ -38,6 +38,7 @@
 ## Index
 
 <!-- index starts -->
+* **Cses** - [Repeatitions.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/Repeatitions.java) - *last updated at 2021-12-31*
 * **Cses** - [Weirdalgorithm.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/WeirdAlgorithm.java) - *last updated at 2021-12-31*
 * **Cses** - [Missingnumber.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/MissingNumber.java) - *last updated at 2021-12-31*
 * **Geeksforgeeks** - [Deletekthofcircularlist.java](https://github.com/ashishdotme/code.ashish.me/blob/master/geeksforgeeks/linked-list/DeleteKthOfCircularList.java) - *last updated at 2021-12-31*
