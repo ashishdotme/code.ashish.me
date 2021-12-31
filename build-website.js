@@ -8,12 +8,12 @@ let problems = []
 let totalProblemsCount = 0
 let linkTitle
 
-const capitalize = (s) => {
+const capitalize = s => {
   if (typeof s !== 'string') return ''
   return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
-const fetchAllProblems = (dir) => {
+const fetchAllProblems = dir => {
   const files = fs.readdirSync(dir)
   files.forEach((file, index) => {
     const filePath = path.normalize(`${dir}/${file}`)
@@ -39,6 +39,11 @@ const fetchAllProblems = (dir) => {
             problem.push(linkTitle)
             problems.push(problem)
           }
+        } else {
+          if (file.split('.')[1] == 'java') {
+            problem.push(`[${capitalize(file)}](${githubRepo}${filePath})`)
+            problems.push(problem)
+          }
         }
       }
     } else {
@@ -49,10 +54,10 @@ const fetchAllProblems = (dir) => {
 
 const srcDir = fs.readdirSync(__dirname, { withFileTypes: true })
 const platforms = srcDir
-  .filter((dirent) => dirent.isDirectory())
-  .map((dirent) => dirent.name)
-  .filter((folder) => folder[0] !== '.' && folder !== 'docs' && folder !== 'node_modules')
-platforms.forEach((platform) => {
+  .filter(dirent => dirent.isDirectory())
+  .map(dirent => dirent.name)
+  .filter(folder => folder[0] !== '.' && folder !== 'docs' && folder !== 'node_modules')
+platforms.forEach(platform => {
   problems = []
   content = `# ${capitalize(platform)} Problems
 
@@ -62,16 +67,16 @@ platforms.forEach((platform) => {
   content += '\n'
   problems.forEach((item, index) => {
     totalProblemsCount += 1
-    content += `- ${item[1]}`
+    content += item[1] ? `- ${item[1]}` : `- ${item[0]}`
     content += '\n'
   })
-  fs.writeFile(`${__dirname}/${platform}/README.md`, content, function (err) {
+  fs.writeFile(`${__dirname}/${platform}/README.md`, content, function(err) {
     if (err) {
       console.log(err)
     } else {
     }
   })
-  fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function (err) {
+  fs.writeFile(`${__dirname}/docs/${platform}.md`, content, function(err) {
     if (err) {
       console.log(err)
     } else {

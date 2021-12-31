@@ -29,9 +29,12 @@ class MissingNumber {
     st = new StringTokenizer(br.readLine());
     long t = ni();
     st = new StringTokenizer(br.readLine());
+    long actualSum = 0;
     for (int i = 0; i + 1 < t; ++i) {
-      pw.print(nl());
+      actualSum += nl();
     }
+    long totalSum = (t * (t + 1))/2;
+    pw.print(totalSum-actualSum);
     br.close();
     pw.close();
   }
