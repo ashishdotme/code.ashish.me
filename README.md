@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->352<!-- count --> questions solved so far.
+<!-- count -->354<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Companies** - [003 Single Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/003-single-number.js) - *last updated at 2022-01-03*
+* **Companies** - [002 Missing Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/002-missing-number.js) - *last updated at 2022-01-03*
 * **Companies** - [001 Contains Duplicates.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/001-contains-duplicates.js) - *last updated at 2022-01-03*
 * **Algoexpert** - [01 Validate Subsequence.js](https://github.com/ashishdotme/code.ashish.me/blob/master/algoexpert/easy/01-validate-subsequence.js) - *last updated at 2021-12-31*
 * **Cses** - [Increasingarray.java](https://github.com/ashishdotme/code.ashish.me/blob/master/cses/introductory/IncreasingArray.java) - *last updated at 2021-12-31*
