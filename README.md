@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->375<!-- count --> questions solved so far.
+<!-- count -->365<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -73,17 +73,7 @@
 * **Patterns** - [04 Substrings Of Size Three With Distinct Characters.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/04-substrings-of-size-three-with-distinct-characters.js) - *last updated at 2022-02-04*
 * **Patterns** - [03 Longest Repeating Character Replacement.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-longest-repeating-character-replacement.js) - *last updated at 2022-02-04*
 * **Patterns** - [06 Fruit Baskets.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/06-fruit-baskets.js) - *last updated at 2022-02-04*
-* **Educative** - [01 Kth Largest Element In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/top-k-elements/01-kth-largest-element-in-an-array.js) - *last updated at 2022-02-04*
-* **Educative** - [01 Backspace String Compare.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/two-pointers/01-backspace-string-compare.js) - *last updated at 2022-02-04*
-* **Educative** - [02 Find The Duplicate Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/two-pointers/02-find-the-duplicate-number.js) - *last updated at 2022-02-04*
-* **Educative** - [07 Permutation In String.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/07-permutation-in-string.js) - *last updated at 2022-02-01*
-* **Educative** - [06 Fruit Baskets.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/06-fruit-baskets.js) - *last updated at 2022-02-01*
-* **Educative** - [04 Substrings Of Size Three With Distinct Characters.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/04-substrings-of-size-three-with-distinct-characters.js) - *last updated at 2022-02-01*
-* **Educative** - [05 Maximum Average Subarray 1.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/05-maximum-average-subarray-1.js) - *last updated at 2022-02-01*
-* **Educative** - [02 Minimum Size Subarray Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/02-minimum-size-subarray-sum.js) - *last updated at 2022-02-01*
-* **Educative** - [03 Longest Repeating Character Replacement.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/03-longest-repeating-character-replacement.js) - *last updated at 2022-02-01*
 * **Companies** - [004 Climbing Stairs.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/004-climbing-stairs.js) - *last updated at 2022-01-31*
-* **Educative** - [01 Longest Substring Without Repeating Characters.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/01-longest-substring-without-repeating-characters.js) - *last updated at 2022-01-31*
 * **Companies** - [003 Single Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/003-single-number.js) - *last updated at 2022-01-03*
 * **Companies** - [002 Missing Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/002-missing-number.js) - *last updated at 2022-01-03*
 * **Companies** - [001 Contains Duplicates.js](https://github.com/ashishdotme/code.ashish.me/blob/master/companies/microsoft/001-contains-duplicates.js) - *last updated at 2022-01-03*
