@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->360<!-- count --> questions solved so far.
+<!-- count -->362<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Educative** - [07 Permutation In String.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/07-permutation-in-string.js) - *last updated at 2022-02-01*
+* **Educative** - [06 Fruit Baskets.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/06-fruit-baskets.js) - *last updated at 2022-02-01*
 * **Educative** - [04 Substrings Of Size Three With Distinct Characters.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/04-substrings-of-size-three-with-distinct-characters.js) - *last updated at 2022-02-01*
 * **Educative** - [05 Maximum Average Subarray 1.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/05-maximum-average-subarray-1.js) - *last updated at 2022-02-01*
 * **Educative** - [02 Minimum Size Subarray Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/02-minimum-size-subarray-sum.js) - *last updated at 2022-02-01*
