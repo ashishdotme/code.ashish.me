@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->362<!-- count --> questions solved so far.
+<!-- count -->365<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,9 @@
 ## Index
 
 <!-- index starts -->
+* **Educative** - [01 Kth Largest Element In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/top-k-elements/01-kth-largest-element-in-an-array.js) - *last updated at 2022-02-04*
+* **Educative** - [01 Backspace String Compare.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/two-pointers/01-backspace-string-compare.js) - *last updated at 2022-02-04*
+* **Educative** - [02 Find The Duplicate Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/two-pointers/02-find-the-duplicate-number.js) - *last updated at 2022-02-04*
 * **Educative** - [07 Permutation In String.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/07-permutation-in-string.js) - *last updated at 2022-02-01*
 * **Educative** - [06 Fruit Baskets.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/06-fruit-baskets.js) - *last updated at 2022-02-01*
 * **Educative** - [04 Substrings Of Size Three With Distinct Characters.js](https://github.com/ashishdotme/code.ashish.me/blob/master/educative/sliding-window/04-substrings-of-size-three-with-distinct-characters.js) - *last updated at 2022-02-01*
