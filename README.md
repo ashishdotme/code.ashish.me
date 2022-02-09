@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->367<!-- count --> questions solved so far.
+<!-- count -->369<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [03 Sort Colors.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/03-sort-colors.js) - *last updated at 2022-02-09*
+* **Patterns** - [03 Subarray Product Less Than K.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-subarray-product-less-than-k.js) - *last updated at 2022-02-09*
 * **Patterns** - [03 Subarray Product Less Than K.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/03-subarray-product-less-than-k.js) - *last updated at 2022-02-09*
 * **Patterns** - [01 Course Schedule.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/01-course-schedule.js) - *last updated at 2022-02-09*
 * **Patterns** - [01 Kth Largest Element In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/top-k-elements/01-kth-largest-element-in-an-array.js) - *last updated at 2022-02-04*
