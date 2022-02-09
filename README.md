@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->365<!-- count --> questions solved so far.
+<!-- count -->367<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [03 Subarray Product Less Than K.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/03-subarray-product-less-than-k.js) - *last updated at 2022-02-09*
+* **Patterns** - [01 Course Schedule.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/01-course-schedule.js) - *last updated at 2022-02-09*
 * **Patterns** - [01 Kth Largest Element In An Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/top-k-elements/01-kth-largest-element-in-an-array.js) - *last updated at 2022-02-04*
 * **Patterns** - [01 Backspace String Compare.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/01-backspace-string-compare.js) - *last updated at 2022-02-04*
 * **Patterns** - [02 Find The Duplicate Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/02-find-the-duplicate-number.js) - *last updated at 2022-02-04*
