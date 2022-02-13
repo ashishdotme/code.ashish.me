@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->370<!-- count --> questions solved so far.
+<!-- count -->371<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [03 Number Of Islands.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/03-number-of-islands.js) - *last updated at 2022-02-13*
 * **Patterns** - [02 Course Schedule 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/02-course-schedule-2.js) - *last updated at 2022-02-10*
 * **Patterns** - [03 Sort Colors.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/03-sort-colors.js) - *last updated at 2022-02-09*
 * **Patterns** - [03 Subarray Product Less Than K.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-subarray-product-less-than-k.js) - *last updated at 2022-02-09*
