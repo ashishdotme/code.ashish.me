@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->372<!-- count --> questions solved so far.
+<!-- count -->374<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [01 Word Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/01-word-search.js) - *last updated at 2022-02-24*
+* **Patterns** - [05 Word Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/05-word-search.js) - *last updated at 2022-02-24*
 * **Patterns** - [04 Clone Graph.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/04-clone-graph.js) - *last updated at 2022-02-13*
 * **Patterns** - [03 Number Of Islands.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/03-number-of-islands.js) - *last updated at 2022-02-13*
 * **Patterns** - [02 Course Schedule 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/02-course-schedule-2.js) - *last updated at 2022-02-10*
