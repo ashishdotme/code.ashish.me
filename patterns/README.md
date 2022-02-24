@@ -1,6 +1,7 @@
 # Patterns Problems
 
   
+- [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/01-word-search.js)
 - [Course schedule](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/01-course-schedule.js)
 - [Longest substring without repeating characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/01-longest-substring-without-repeating-characters.js)
 - [Kth largest element in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/top-k-elements/01-kth-largest-element-in-an-array.js)
@@ -14,6 +15,7 @@
 - [Sort colors](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/03-sort-colors.js)
 - [Clone graph](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/04-clone-graph.js)
 - [Substrings of size three with distinct characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/04-substrings-of-size-three-with-distinct-characters.js)
+- [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/05-word-search.js)
 - [Maximum average subarray 1](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/05-maximum-average-subarray-1.js)
 - [Fruit baskets](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/06-fruit-baskets.js)
 - [Permutation in string](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/07-permutation-in-string.js)
