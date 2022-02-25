@@ -6,13 +6,18 @@
  *
  */
 
-const subsets = nums => {
+const permutations = nums => {
   const result = []
   const backtrack = (arr, curr) => {
-    result.push(curr.slice())
+    if (arr.length === 0) {
+      result.push(curr.slice())
+      return
+    }
     for (let i = 0; i < arr.length; i++) {
+      const newNums = arr.slice()
+      newNums.splice(i, 1)
       curr.push(arr[i])
-      backtrack(arr.slice(i + 1), curr)
+      backtrack(newNums, curr)
       curr.pop()
     }
   }
@@ -20,18 +25,18 @@ const subsets = nums => {
   return result
 }
 
-const subsets1 = nums => {
+const permutations2 = nums => {
   const result = []
   const backtrack = (index, combination) => {
     if (index == nums.length) {
       result.push(combination)
       return
     }
-    backtrack(index + 1, [...combination])
+    backtrack(index + 1, [...nums[index]])
     backtrack(index + 1, [...combination, nums[index]])
   }
-  backtrack(0, '')
+  backtrack(0, [])
   return result
 }
 
-console.log(subsets([1, 2, 3]))
+console.log(permutations([1, 2, 3]))

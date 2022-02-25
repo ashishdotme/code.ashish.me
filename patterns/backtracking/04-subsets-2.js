@@ -7,6 +7,23 @@
  */
 
 const subsets2 = nums => {
+  nums.sort((a, b) => a - b)
+  const result = []
+  const backtrack = (arr, curr) => {
+    result.push(curr.slice())
+    for (let i = 0; i < arr.length; i++) {
+      if (i == 0 || arr[i] != arr[i - 1]) {
+        curr.push(arr[i])
+        backtrack(arr.slice(i + 1), curr)
+        curr.pop()
+      }
+    }
+  }
+  backtrack(nums, [])
+  return result
+}
+
+const subsets22 = nums => {
   const unique = new Set()
   nums.sort((a, b) => a - b)
   const result = []

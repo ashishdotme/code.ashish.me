@@ -7,3 +7,4 @@ yarn.lock
 *.class
 .build
 --public
+test

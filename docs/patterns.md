@@ -18,6 +18,7 @@
 - [Subsets 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/04-subsets-2.js)
 - [Clone graph](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/04-clone-graph.js)
 - [Substrings of size three with distinct characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/04-substrings-of-size-three-with-distinct-characters.js)
+- [Permutations](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/05-permutations.js)
 - [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/05-word-search.js)
 - [Maximum average subarray 1](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/05-maximum-average-subarray-1.js)
 - [Fruit baskets](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/06-fruit-baskets.js)
