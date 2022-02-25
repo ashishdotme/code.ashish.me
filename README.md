@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->376<!-- count --> questions solved so far.
+<!-- count -->377<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [04 Subsets 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/04-subsets-2.js) - *last updated at 2022-02-25*
 * **Patterns** - [02 Letter Case Permutation.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/02-letter-case-permutation.js) - *last updated at 2022-02-25*
 * **Patterns** - [03 Subsets.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/03-subsets.js) - *last updated at 2022-02-25*
 * **Patterns** - [01 Word Search.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/01-word-search.js) - *last updated at 2022-02-24*
