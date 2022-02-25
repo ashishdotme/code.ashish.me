@@ -15,6 +15,7 @@
 - [Longest repeating character replacement](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-longest-repeating-character-replacement.js)
 - [Subarray product less than k](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-subarray-product-less-than-k.js)
 - [Sort colors](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/03-sort-colors.js)
+- [Subsets 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/04-subsets-2.js)
 - [Clone graph](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/04-clone-graph.js)
 - [Substrings of size three with distinct characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/04-substrings-of-size-three-with-distinct-characters.js)
 - [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/05-word-search.js)
