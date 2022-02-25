@@ -8,6 +8,29 @@
 
 const permutations = nums => {
   const result = []
+  const visited = new Set()
+  const backtrack = curr => {
+    if (nums.length == curr.length) {
+      result.push([...curr])
+    } else {
+      for (let i = 0; i < nums.length; i++) {
+        if (visited.has(i)) {
+          continue
+        }
+        visited.add(i)
+        curr.push(nums[i])
+        backtrack(curr)
+        visited.delete(i)
+        curr.pop()
+      }
+    }
+  }
+  backtrack([])
+  return result
+}
+
+const permutations3 = nums => {
+  const result = []
   const backtrack = (arr, curr) => {
     if (arr.length === 0) {
       result.push(curr.slice())
