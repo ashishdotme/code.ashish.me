@@ -26,3 +26,5 @@
 - [Combinations](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/07-combinations.js)
 - [Permutation in string](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/07-permutation-in-string.js)
 - [Combination sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/08-combination-sum.js)
+- [Combination sum 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/09-combination-sum-2.js)
+- [Combination sum 3](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/10-combination-sum-3.js)
