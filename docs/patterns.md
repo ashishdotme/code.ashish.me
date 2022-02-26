@@ -23,4 +23,6 @@
 - [Maximum average subarray 1](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/05-maximum-average-subarray-1.js)
 - [Permutations 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/06-permutations-2.js)
 - [Fruit baskets](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/06-fruit-baskets.js)
+- [Combinations](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/07-combinations.js)
 - [Permutation in string](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/07-permutation-in-string.js)
+- [Combination sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/08-combination-sum.js)
