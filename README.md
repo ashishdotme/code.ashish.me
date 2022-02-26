@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->379<!-- count --> questions solved so far.
+<!-- count -->381<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [07 Combinations.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/07-combinations.js) - *last updated at 2022-02-26*
+* **Patterns** - [08 Combination Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/08-combination-sum.js) - *last updated at 2022-02-26*
 * **Patterns** - [06 Permutations 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/06-permutations-2.js) - *last updated at 2022-02-25*
 * **Patterns** - [05 Permutations.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/05-permutations.js) - *last updated at 2022-02-25*
 * **Patterns** - [04 Subsets 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/04-subsets-2.js) - *last updated at 2022-02-25*
