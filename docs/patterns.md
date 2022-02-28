@@ -30,3 +30,4 @@
 - [Combination sum 3](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/10-combination-sum-3.js)
 - [Generate parentheses](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/11-generate-parentheses.js)
 - [Palindrome partitioning](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/12-palindrome-partitioning.js)
+- [Letter combinations of a phone number](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/13-letter-combinations-of-a-phone-number.js)
