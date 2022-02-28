@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->384<!-- count --> questions solved so far.
+<!-- count -->385<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [12 Palindrome Partitioning.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/12-palindrome-partitioning.js) - *last updated at 2022-02-28*
 * **Patterns** - [11 Generate Parentheses.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/11-generate-parentheses.js) - *last updated at 2022-02-26*
 * **Patterns** - [09 Combination Sum 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/09-combination-sum-2.js) - *last updated at 2022-02-26*
 * **Patterns** - [10 Combination Sum 3.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/10-combination-sum-3.js) - *last updated at 2022-02-26*
