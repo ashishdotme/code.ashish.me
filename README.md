@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->386<!-- count --> questions solved so far.
+<!-- count -->387<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [019 Remove Nth Node From End Of List.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/019-remove-nth-node-from-end-of-list.js) - *last updated at 2022-03-04*
 * **Patterns** - [13 Letter Combinations Of A Phone Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/13-letter-combinations-of-a-phone-number.js) - *last updated at 2022-02-28*
 * **Patterns** - [12 Palindrome Partitioning.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/12-palindrome-partitioning.js) - *last updated at 2022-02-28*
 * **Patterns** - [11 Generate Parentheses.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/11-generate-parentheses.js) - *last updated at 2022-02-26*
