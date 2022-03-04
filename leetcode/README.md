@@ -13,6 +13,7 @@
 - [19. Remove nth node from end of list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/019-remove-nth-node-from-end-of-list.js)
 - [20. Valid parantheses](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/020-valid-parantheses.js)
 - [21. Merge two sorted lists](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/021-merge-two-sorted-lists.js)
+- [23. Merge k sorted lists](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/023-merge-k-sorted-lists.js)
 - [26. Remove duplciates from sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/026-remove-duplciates-from-sorted-array.js)
 - [27. Remove element](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/027-remove-element.js)
 - [28. Implement strstr](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/028-implement-strstr.js)
