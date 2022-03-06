@@ -20,7 +20,7 @@ const removeNthNodeFromEndOfList = (head, n) => {
     length += 1
   }
   let count = length - n
-  if (count == 1) {
+  if (count == 0) {
     return head.next
   }
   while (root && count > 1) {

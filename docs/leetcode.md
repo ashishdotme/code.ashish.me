@@ -24,6 +24,7 @@
 - [48. Rotate image](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/048-rotate-image.js)
 - [49. Group anagrams](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/049-group-anagrams.js)
 - [53. Maximum subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/053-maximum-subarray.js)
+- [54. Spiral matrix](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/054-spiral-matrix.js)
 - [55. Jump game](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/055-jump-game.js)
 - [58. Length of last word](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/058-length-of-last-word.js)
 - [62. Unique paths](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/062-unique-paths.js)
