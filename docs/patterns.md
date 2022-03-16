@@ -1,6 +1,7 @@
 # Patterns Problems
 
   
+- [Search a 2d matrix 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/01-search-a-2d-matrix-2.js)
 - [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/01-word-search.js)
 - [Course schedule](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/01-course-schedule.js)
 - [Longest substring without repeating characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/01-longest-substring-without-repeating-characters.js)
