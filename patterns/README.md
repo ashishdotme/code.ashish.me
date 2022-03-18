@@ -13,6 +13,7 @@
 - [Minimum size subarray sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/02-minimum-size-subarray-sum.js)
 - [Find the duplicate number](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/02-find-the-duplicate-number.js)
 - [Subsets](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/03-subsets.js)
+- [Peak index in a mountain array](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/03-peak-index-in-a-mountain-array.js)
 - [Number of islands](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/03-number-of-islands.js)
 - [Longest repeating character replacement](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-longest-repeating-character-replacement.js)
 - [Subarray product less than k](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/03-subarray-product-less-than-k.js)
