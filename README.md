@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->390<!-- count --> questions solved so far.
+<!-- count -->392<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [01 Search A 2d Matrix 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/01-search-a-2d-matrix-2.js) - *last updated at 2022-03-18*
+* **Patterns** - [02 Find Smallest Letter Greater Than Target.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/02-find-smallest-letter-greater-than-target.js) - *last updated at 2022-03-18*
 * **Patterns** - [01 Search A 2d Matrix 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/01-search-a-2d-matrix-2.js) - *last updated at 2022-03-16*
 * **Leetcode** - [054 Spiral Matrix.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/054-spiral-matrix.js) - *last updated at 2022-03-06*
 * **Leetcode** - [023 Merge K Sorted Lists.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/023-merge-k-sorted-lists.js) - *last updated at 2022-03-04*
