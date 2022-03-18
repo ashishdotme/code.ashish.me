@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->392<!-- count --> questions solved so far.
+<!-- count -->393<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [03 Peak Index In A Mountain Array.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/03-peak-index-in-a-mountain-array.js) - *last updated at 2022-03-18*
 * **Patterns** - [01 Search A 2d Matrix 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/01-search-a-2d-matrix-2.js) - *last updated at 2022-03-18*
 * **Patterns** - [02 Find Smallest Letter Greater Than Target.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/02-find-smallest-letter-greater-than-target.js) - *last updated at 2022-03-18*
 * **Patterns** - [01 Search A 2d Matrix 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/01-search-a-2d-matrix-2.js) - *last updated at 2022-03-16*
