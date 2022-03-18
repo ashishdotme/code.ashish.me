@@ -1,13 +1,14 @@
 # Patterns Problems
 
   
-- [Search a 2d matrix 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/01-search-a-2d-matrix-2.js)
 - [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/01-word-search.js)
+- [Search a 2d matrix 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/01-search-a-2d-matrix-2.js)
 - [Course schedule](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/01-course-schedule.js)
 - [Longest substring without repeating characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/01-longest-substring-without-repeating-characters.js)
 - [Kth largest element in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/top-k-elements/01-kth-largest-element-in-an-array.js)
 - [Backspace string compare](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/01-backspace-string-compare.js)
 - [Letter case permutation](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/02-letter-case-permutation.js)
+- [Find smallest letter greater than target](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/02-find-smallest-letter-greater-than-target.js)
 - [Course schedule 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/02-course-schedule-2.js)
 - [Minimum size subarray sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/02-minimum-size-subarray-sum.js)
 - [Find the duplicate number](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/02-find-the-duplicate-number.js)
