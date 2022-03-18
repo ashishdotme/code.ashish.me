@@ -50,6 +50,7 @@
 - [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js)
 - [152. Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js)
 - [153. Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js)
+- [167. Two sum 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/167-two-sum-2.js)
 - [169. Majority element](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/169-majority-element.js)
 - [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js)
 - [189. Rotate array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/189-rotate-array.js)
