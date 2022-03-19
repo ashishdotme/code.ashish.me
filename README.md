@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->396<!-- count --> questions solved so far.
+<!-- count -->398<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,8 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [1299 Replace Elements With Greatest Element On Right Side.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1299-replace-elements-with-greatest-element-on-right-side.js) - *last updated at 2022-03-19*
+* **Leetcode** - [202 Happy Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/202-happy-number.js) - *last updated at 2022-03-19*
 * **Leetcode** - [234 Palindrome Linked List.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/234-palindrome-linked-list.js) - *last updated at 2022-03-19*
 * **Patterns** - [04 Find The Duplicate Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/04-find-the-duplicate-number.js) - *last updated at 2022-03-18*
 * **Leetcode** - [167 Two Sum 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/167-two-sum-2.js) - *last updated at 2022-03-19*
