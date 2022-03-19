@@ -11,7 +11,7 @@ const twoSum2 = (numbers, target) => {
   let right = numbers.length - 1
   while (left < right) {
     if (numbers[left] + numbers[right] == target) {
-      return [left, right]
+      return [left + 1, right + 1]
     }
     if (numbers[left] + numbers[right] > target) {
       right -= 1
