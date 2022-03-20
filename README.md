@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->399<!-- count --> questions solved so far.
+<!-- count -->400<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [263 Ugly Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/263-ugly-number.js) - *last updated at 2022-03-20*
 * **Leetcode** - [155 Min Stack.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/155-min-stack.js) - *last updated at 2022-03-19*
 * **Leetcode** - [1299 Replace Elements With Greatest Element On Right Side.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1299-replace-elements-with-greatest-element-on-right-side.js) - *last updated at 2022-03-19*
 * **Leetcode** - [202 Happy Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/202-happy-number.js) - *last updated at 2022-03-19*
