@@ -70,6 +70,7 @@
 - [238. Product of array except self](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/238-product-of-array-except-self.js)
 - [242. Valid anagram](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/242-valid-anagram.js)
 - [258. Add digits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/258-add-digits.js)
+- [263. Ugly number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/263-ugly-number.js)
 - [268. Missing numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/268-missing-numbers.js)
 - [283. Move zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/283-move-zeros.js)
 - [287. Find the duplicate number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/287-find-the-duplicate-number.js)
