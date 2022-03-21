@@ -84,6 +84,7 @@
 - [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js)
 - [345. Reverse vowels of a string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/345-reverse-vowels-of-a-string.js)
 - [367. Valid perfect square](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/367-valid-perfect-square.js)
+- [374. Guess number higher or lower](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/374-guess-number-higher-or-lower.js)
 - [383. Ransome note](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/383-ransome-note.js)
 - [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js)
 - [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js)
