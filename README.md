@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->402<!-- count --> questions solved so far.
+<!-- count -->403<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [605 Can Place Flowers.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/605-can-place-flowers.js) - *last updated at 2022-03-21*
 * **Leetcode** - [191 Number Of 1 Bits.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/191-number-of-1-bits.js) - *last updated at 2022-03-21*
 * **Leetcode** - [205 Isomorphic Strings.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/205-isomorphic-strings.js) - *last updated at 2022-03-21*
 * **Leetcode** - [263 Ugly Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/263-ugly-number.js) - *last updated at 2022-03-20*
