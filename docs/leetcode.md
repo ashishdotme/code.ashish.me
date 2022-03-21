@@ -97,6 +97,7 @@
 - [572. Subtree of another tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/572-subtree-of-another-tree.js)
 - [589. Preorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/589-preorder-traversal.js)
 - [590. Postorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/590-postorder-traversal.js)
+- [605. Can place flowers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/605-can-place-flowers.js)
 - [606. Construct string from binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/606-construct-string-from-binary-tree.js)
 - [617. Merge two binary trees](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/617-merge-two-binary-trees.js)
 - [628. Maximum product of three numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/628-maximum-product-of-three-numbers.js)
