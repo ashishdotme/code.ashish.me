@@ -89,6 +89,7 @@
 - [414. Third maxmium number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/414-third-maxmium-number.js)
 - [437. Path sum 3](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/437-path-sum-3.js)
 - [442. Find all duplicates in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/442-find-all-duplicates-in-an-array.js)
+- [448. Find all numbers disappeared in a array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/448-find-all-numbers-disappeared-in-a-array.js)
 - [485. Max consecutive ones](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/485-max-consecutive-ones.js)
 - [492. Construct the rectangle](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/492-construct-the-rectangle.js)
 - [498. Diagonal traverse](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/498-diagonal-traverse.js)
