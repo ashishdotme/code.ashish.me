@@ -55,6 +55,7 @@
 - [169. Majority element](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/169-majority-element.js)
 - [170. Two sum iii](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/170-two-sum-iii.js)
 - [189. Rotate array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/189-rotate-array.js)
+- [191. Number of 1 bits](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/191-number-of-1-bits.js)
 - [198. House robber](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/198-house-robber.js)
 - [199. Binary tree right side view](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/199-binary-tree-right-side-view.js)
 - [202. Happy number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/202-happy-number.js)
