@@ -33,6 +33,7 @@
 - [75. Sort colors](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/075-sort-colors.js)
 - [83. Remove duplicates from sorted list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/083-remove-duplicates-from-sorted-list.js)
 - [88. Merge sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/088-merge-sorted-array.js)
+- [94. Binary tree inorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/094-binary-tree-inorder-traversal.js)
 - [100. Same tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/100-same-tree.js)
 - [102. Binary tree level order traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/102-binary-tree-level-order-traversal.js)
 - [103. Binary tree zigzag level order traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/103-binary-tree-zigzag-level-order-traversal.js)
