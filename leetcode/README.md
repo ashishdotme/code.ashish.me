@@ -79,6 +79,7 @@
 - [268. Missing numbers](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/268-missing-numbers.js)
 - [283. Move zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/283-move-zeros.js)
 - [287. Find the duplicate number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/287-find-the-duplicate-number.js)
+- [290. Word pattern](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/290-word-pattern.js)
 - [300. Longest increasing subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/300-longest-increasing-subsequence.js)
 - [322. Coin change](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/322-coin-change.js)
 - [344. Reverse string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/344-reverse-string.js)
