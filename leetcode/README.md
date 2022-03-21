@@ -110,6 +110,7 @@
 - [700. Search in a binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/700-search-in-a-binary-search-tree.js)
 - [704. Binary search](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/704-binary-search.js)
 - [709. To lower case](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/709-to-lower-case.js)
+- [724. Find pivot index](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/724-find-pivot-index.js)
 - [771. Jewels stones](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/771-jewels-stones.js)
 - [796. Rotate string](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/796-rotate-string.js)
 - [811. Subdomain visit count](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/811-subdomain-visit-count.js)
