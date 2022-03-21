@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->401<!-- count --> questions solved so far.
+<!-- count -->402<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [191 Number Of 1 Bits.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/191-number-of-1-bits.js) - *last updated at 2022-03-21*
 * **Leetcode** - [205 Isomorphic Strings.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/205-isomorphic-strings.js) - *last updated at 2022-03-21*
 * **Leetcode** - [263 Ugly Number.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/263-ugly-number.js) - *last updated at 2022-03-20*
 * **Leetcode** - [155 Min Stack.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/155-min-stack.js) - *last updated at 2022-03-19*
