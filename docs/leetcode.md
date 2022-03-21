@@ -59,6 +59,7 @@
 - [199. Binary tree right side view](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/199-binary-tree-right-side-view.js)
 - [202. Happy number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/202-happy-number.js)
 - [203. Remove linked list elements](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/203-remove-linked-list-elements.js)
+- [205. Isomorphic strings](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/205-isomorphic-strings.js)
 - [206. Reverse linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/206-reverse-linked-list.js)
 - [211. Design add and search words data structure](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/211-design-add-and-search-words-data-structure.js)
 - [217. Contains duplicates](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/217-contains-duplicates.js)
