@@ -136,6 +136,7 @@
 - [1089. Duplicate zeros](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1089-duplicate-zeros.js)
 - [1103. Distribute candies to people](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1103-distribute-candies-to-people.js)
 - [1108. Defanging an ip address](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1108-defanging-an-ip-address.js)
+- [1143. Longest common subsequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1143-longest-common-subsequence.js)
 - [1154. Day of the year](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1154-day-of-the-year.js)
 - [1189. Maximum number of balloons](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1189-maximum-number-of-balloons.js)
 - [1207. Unique number of occurrences](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1207-unique-number-of-occurrences.js)
