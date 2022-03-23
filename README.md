@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->413<!-- count --> questions solved so far.
+<!-- count -->414<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [494 Target Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/494-target-sum.js) - *last updated at 2022-03-23*
 * **Leetcode** - [1143 Longest Common Subsequence.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/1143-longest-common-subsequence.js) - *last updated at 2022-03-22*
 * **Leetcode** - [139 Word Break.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/139-word-break.js) - *last updated at 2022-03-22*
 * **Leetcode** - [290 Word Pattern.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/290-word-pattern.js) - *last updated at 2022-03-21*
