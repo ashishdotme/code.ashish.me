@@ -3,6 +3,7 @@
   
 - [Word search](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/01-word-search.js)
 - [Search a 2d matrix 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/01-search-a-2d-matrix-2.js)
+- [Subset sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/dynamic-programming/0-1-knapsack/01-subset-sum.js)
 - [Course schedule](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/01-course-schedule.js)
 - [Longest substring without repeating characters](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/01-longest-substring-without-repeating-characters.js)
 - [Kth largest element in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/top-k-elements/01-kth-largest-element-in-an-array.js)
