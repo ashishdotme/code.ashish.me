@@ -91,6 +91,7 @@
 - [409. Longest palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/409-longest-palindrome.js)
 - [412. Fizz buzz](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/412-fizz-buzz.js)
 - [414. Third maxmium number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/414-third-maxmium-number.js)
+- [416. Partition equal subset sum](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/416-partition-equal-subset-sum.js)
 - [437. Path sum 3](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/437-path-sum-3.js)
 - [441. Arranging coins](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/441-arranging-coins.js)
 - [442. Find all duplicates in an array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/442-find-all-duplicates-in-an-array.js)
