@@ -10,6 +10,7 @@
 - [Backspace string compare](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/01-backspace-string-compare.js)
 - [Letter case permutation](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/backtracking/02-letter-case-permutation.js)
 - [Find smallest letter greater than target](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/binary-search/02-find-smallest-letter-greater-than-target.js)
+- [Count of subset sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/dynamic-programming/0-1-knapsack/02-count-of-subset-sum.js)
 - [Course schedule 2](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/graph/02-course-schedule-2.js)
 - [Minimum size subarray sum](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/sliding-window/02-minimum-size-subarray-sum.js)
 - [Find the duplicate number](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/two-pointers/02-find-the-duplicate-number.js)
