@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->418<!-- count --> questions solved so far.
+<!-- count -->419<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Patterns** - [02 Count Of Subset Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/dynamic-programming/0-1-knapsack/02-count-of-subset-sum.js) - *last updated at 2022-03-27*
 * **Leetcode** - [416 Partition Equal Subset Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/416-partition-equal-subset-sum.js) - *last updated at 2022-03-26*
 * **Patterns** - [01 Subset Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/dynamic-programming/0-1-knapsack/01-subset-sum.js) - *last updated at 2022-03-26*
 * **Leetcode** - [518 Coin Change 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/518-coin-change-2.js) - *last updated at 2022-03-25*
