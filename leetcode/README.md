@@ -41,6 +41,7 @@
 - [105. Construct binary tree from preorder and inorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/105-construct-binary-tree-from-preorder-and-inorder-traversal.js)
 - [107. Binary tree level order traversal 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/107-binary-tree-level-order-traversal-2.js)
 - [108. Convert sorted array to binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/108-convert-sorted-array-to-binary-search-tree.js)
+- [110. Balanced binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/110-balanced-binary-tree.js)
 - [111. Minimum depth of binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/111-minimum-depth-of-binary-tree.js)
 - [112. Path sum](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/112-path-sum.js)
 - [113. Path sum 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/113-path-sum-2.js)
