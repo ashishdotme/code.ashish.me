@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->422<!-- count --> questions solved so far.
+<!-- count -->423<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [145 Binary Tree Postorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/145-binary-tree-postorder-traversal.js) - *last updated at 2023-05-07*
 * **Leetcode** - [119 Pascal Triangle 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/119-pascal-triangle-2.js) - *last updated at 2023-05-07*
 * **Leetcode** - [118 Pascal Triangle.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/118-pascal-triangle.js) - *last updated at 2023-05-07*
 * **Leetcode** - [110 Balanced Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/110-balanced-binary-tree.js) - *last updated at 2023-04-05*
