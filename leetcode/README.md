@@ -53,6 +53,7 @@
 - [136. Single number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/136-single-number.js)
 - [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js)
 - [139. Word break](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/139-word-break.js)
+- [145. Binary tree postorder traversal](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/145-binary-tree-postorder-traversal.js)
 - [152. Maximum product subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/152-maximum-product-subarray.js)
 - [153. Find minimum in rotated sorted array](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/153-find-minimum-in-rotated-sorted-array.js)
 - [155. Min stack](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/155-min-stack.js)
