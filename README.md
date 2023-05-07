@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->420<!-- count --> questions solved so far.
+<!-- count -->421<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [118 Pascal Triangle.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/118-pascal-triangle.js) - *last updated at 2023-05-07*
 * **Leetcode** - [110 Balanced Binary Tree.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/110-balanced-binary-tree.js) - *last updated at 2023-04-05*
 * **Patterns** - [02 Count Of Subset Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/patterns/dynamic-programming/0-1-knapsack/02-count-of-subset-sum.js) - *last updated at 2022-03-27*
 * **Leetcode** - [416 Partition Equal Subset Sum.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/416-partition-equal-subset-sum.js) - *last updated at 2022-03-26*
