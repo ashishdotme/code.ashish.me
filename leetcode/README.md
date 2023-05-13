@@ -21,6 +21,7 @@
 - [35. Search insert position](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/035-search-insert-position.js)
 - [38. Count and say](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/038-count-and-say.js)
 - [41. First missing positive](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/041-first-missing-positive.js)
+- [45. Jump game 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/045-jump-game-2.js)
 - [48. Rotate image](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/048-rotate-image.js)
 - [49. Group anagrams](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/049-group-anagrams.js)
 - [53. Maximum subarray](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/053-maximum-subarray.js)
