@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->424<!-- count --> questions solved so far.
+<!-- count -->425<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [228 Summary Ranges.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/228-summary-ranges.js) - *last updated at 2023-05-13*
 * **Leetcode** - [219 Contains Duplicate 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/219-contains-duplicate-2.js) - *last updated at 2023-05-13*
 * **Leetcode** - [145 Binary Tree Postorder Traversal.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/145-binary-tree-postorder-traversal.js) - *last updated at 2023-05-07*
 * **Leetcode** - [119 Pascal Triangle 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/119-pascal-triangle-2.js) - *last updated at 2023-05-07*
