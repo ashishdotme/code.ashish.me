@@ -74,6 +74,7 @@
 - [219. Contains duplicate 2](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/219-contains-duplicate-2.js)
 - [225. Implement stack using queues](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/225-implement-stack-using-queues.js)
 - [226. Invert binary tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/226-invert-binary-tree.js)
+- [228. Summary ranges](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/228-summary-ranges.js)
 - [230. Kth smallest element in a bst](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/230-kth-smallest-element-in-a-bst.js)
 - [234. Palindrome linked list](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/234-palindrome-linked-list.js)
 - [235. Lowest common ancestor of a binary search tree](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/235-lowest-common-ancestor-of-a-binary-search-tree.js)
