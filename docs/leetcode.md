@@ -51,6 +51,7 @@
 - [121. Best time to buy and sell stock](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/121-best-time-to-buy-and-sell-stock.js)
 - [124. Binary tree maximum path sum](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/124-binary-tree-maximum-path-sum.js)
 - [125. Valid palindrome](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/125-valid-palindrome.js)
+- [128. Longest consecutive sequence](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/128-longest-consecutive-sequence.js)
 - [136. Single number](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/136-single-number.js)
 - [138. Copy list with random pointer](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/138-copy-list-with-random-pointer.js)
 - [139. Word break](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/139-word-break.js)
