@@ -18,7 +18,7 @@
 
 ## Stats
 
-<!-- count -->427<!-- count --> questions solved so far.
+<!-- count -->428<!-- count --> questions solved so far.
 
 
 ## Sources
@@ -63,6 +63,7 @@
 ## Index
 
 <!-- index starts -->
+* **Leetcode** - [128 Longest Consecutive Sequence.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/128-longest-consecutive-sequence.js) - *last updated at 2023-05-20*
 * **Leetcode** - [347 Top K Frequent Elements.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/347-top-k-frequent-elements.js) - *last updated at 2023-05-13*
 * **Leetcode** - [045 Jump Game 2.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/045-jump-game-2.js) - *last updated at 2023-05-13*
 * **Leetcode** - [228 Summary Ranges.js](https://github.com/ashishdotme/code.ashish.me/blob/master/leetcode/228-summary-ranges.js) - *last updated at 2023-05-13*
